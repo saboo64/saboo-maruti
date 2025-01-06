@@ -25,13 +25,14 @@ const offer_products = [
   // },
   {
     name: "Swift 2024",
-    price: "1,68,000",
+    price: "93,143",
+    desc:"+Blitz Kit",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/Swift+Tile+Image.webp",
     explore: "/maruti-swift-car-on-road-price-in-hyderabad",
   },
   {
     name: "Brezza 2024",
-    price: "1,89,000",
+    price: "58,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-brezza.webp",
     // img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/offers/maruti-suzuki-brezza.webp",
     explore: "/maruti-new-brezza-on-road-price-in-hyderabad",
@@ -39,7 +40,7 @@ const offer_products = [
   {
     name: "Alto K10",
     // price: '61000',
-    price: "1,20,000",
+    price: "46,100",
     logo: "Alto k10",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-k10.webp",
     explore: "/maruti-alto-800-on-road-price-in-hyderabad",
@@ -53,44 +54,44 @@ const offer_products = [
   // },
   {
     name: "S-Presso",
-    price: "1,36,000",
+    price: "46,100",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-spresso.webp",
     explore: "/maruti-s-presso-on-road-price-in-hyderabad",
   },
   {
     name: "WagonR ",
-    price: "1,51,000",
+    price: "46,100",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-wagonr.webp",
     explore: "/maruti-wagon-r-on-road-price-in-hyderabad",
   },
 
   {
     name: "Celerio",
-    price: "1,42,000",
+    price: "46,100",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-celerio.webp",
     explore: "/the-all-new-celerio",
   },
 
  // {
- //   name: "Swift 2023",
+   // name: "Swift 2023",
  //   price: "33,000",
  //   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-swift.webp",
   //  explore: "/maruti-swift-car-on-road-price-in-hyderabad",
   //},
 
   {
-    name: "Dzire",
-    price: "1,28,000",
+    name: " Old Dzire",
+    price: "33,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-dzire.webp",
     explore: "/maruti-swift-dzire-on-road-price-in-hyderabad",
   },
 
-  //{
-   // name: "EECO",
-   // price: "",
-   // img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-eeco.webp",
-  //  explore: "/maruti-eeco-on-road-price-in-hyderabad",
-  //},
+  {
+    name: "EECO",
+    price: "43,000",
+    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-eeco.webp",
+    explore: "/maruti-eeco-on-road-price-in-hyderabad",
+  },
 
   // {
   //   name: "Ertiga",
@@ -99,37 +100,38 @@ const offer_products = [
   //   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/maruti-ertiga/ertiga_2.png",
   //   explore: "/maruti-ertiga-on-road-price-in-hyderabad",
   // },
-  // {
-   // name: "Tour H3",
-  //  price: "63,000",
-   // img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-H3.png",
-    // img: 'https://saboomaruti.in/static/media/wagonR.47c3c101c4c120a22870.webp',
-   // explore: "/maruti-wagnor-tour-h3-on-road-price-in-hyderabad",
-  //},
-  //{
-   // name: "Tour H1",
-   // price: "63,000",
-   // img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/tour-H1.png",
-  //  explore: "/maruti-alto-tour-h1-on-road-price-in-hyderabad",
- // },
- // {
- //   name: "Tour V",
- //   price: "38,000",
- //   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-V.png",
- //   explore: "/maruti-eeco-tour-v-on-road-price-in-hyderabad",
- // },
- // {
-  //  name: "Tour S",
-  //  price: "25,000",
-   // img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-S.png",
-   // explore: "/maruti-dzire-tour-s-on-road-price-in-hyderabad",
- // },
- // {
-  //  name: "Tour M",
- //   price: "3,000",
-  //  img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-M.png",
-  //  explore: "/maruti-ertiga-tour-m-on-road-price-in-hyderabad",
- // },
+   {
+    name: "Tour H3",
+    price: "73,000",
+    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-H3.png",
+     img: 'https://saboomaruti.in/static/media/wagonR.47c3c101c4c120a22870.webp',
+    explore: "/maruti-wagnor-tour-h3-on-road-price-in-hyderabad",
+  },
+  {
+    name: "Tour H1",
+    price: "75,000",
+    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/tour-H1.png",
+    explore: "/maruti-alto-tour-h1-on-road-price-in-hyderabad",
+  },
+  {
+    name: "Tour V",
+    price: "33,000",
+   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-V.png",
+    explore: "/maruti-eeco-tour-v-on-road-price-in-hyderabad",
+  },
+  {
+   name: "Tour S",
+    price: "60,146",
+    desc:" Tour s Plus Kit",
+    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-S.png",
+    explore: "/maruti-dzire-tour-s-on-road-price-in-hyderabad",
+  },
+  {
+    name: "Tour M",
+    price: "43,000",
+   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-M.png",
+    explore: "/maruti-ertiga-tour-m-on-road-price-in-hyderabad",
+  },
 ];
 
 function Offers() {
@@ -283,7 +285,8 @@ function Offers() {
                       {/* <sup>*</sup> */}
                       <span className="text-xs font-extralight">₹</span>{" "}
                       {item.price}*
-                    </span>
+                    </span><br/>
+                   <span>{item.desc}</span>
                     &nbsp;&nbsp;&nbsp;
                   </p>
                 </div>
@@ -302,7 +305,7 @@ function Offers() {
       </div>
       <div className="container px-5 pb-5 mx-auto mb-10 text-sm sm:px-0">
         <p>
-          Note: These offers are valid till 16th of sep 2024 also above offers
+          Note: These offers are valid till 31th of jan 2025 above offers
           including consumer, exchange, institutional, rural offers
         </p>
       </div>
