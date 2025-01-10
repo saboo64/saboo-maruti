@@ -17,7 +17,7 @@ function ErtigaCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Ertiga CNG On Road Price in Secunderabad, Hyderabad & 2024
+          Maruti Ertiga CNG On Road Price in Secunderabad, Hyderabad & 2025
           Offers | Maruti Ertiga CNG Offers
         </title>
         <meta
@@ -59,13 +59,13 @@ function ErtigaCNG() {
       <Header />
       <img
         src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/ertiga/Ertiga_banner.jpg"
-        className="max-w-full w-full lg:mt-16"
+        className="w-full max-w-full lg:mt-16"
         alt="1"
       />
-      <div className="container mx-auto pt-6 lg:px-0 md:px-3 py-6">
-        <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-2">
-          <div className="space-y-3 justify-between px-6">
-            <p className="uppercase font-bold text-4xl">ERTIGA S-CNG</p>
+      <div className="container py-6 pt-6 mx-auto lg:px-0 md:px-3">
+        <div className="grid grid-cols-1 gap-2 lg:grid-cols-2 md:grid-cols-2">
+          <div className="justify-between px-6 space-y-3">
+            <p className="text-4xl font-bold uppercase">ERTIGA S-CNG</p>
             <p className="font-bold text-green-900">
               10.78 lakh <sup>*</sup>
               <p className="font-light text-green-900">ex-show room price</p>
@@ -95,27 +95,27 @@ function ErtigaCNG() {
               <div className="basis-1/1">
                 <img
                   src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/ertiga/icon1.png"
-                  className="max-w-full w-full pr-3"
+                  className="w-full max-w-full pr-3"
                   alt="1"
                 />
               </div>
               <div className="basis-1/1">
                 <img
                   src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/ertiga/icon2.png"
-                  className="max-w-full w-full pr-3"
+                  className="w-full max-w-full pr-3"
                   alt="1"
                 />
               </div>
               <div className="basis-1/1">
                 <img
                   src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/ertiga/icon3.png"
-                  className="max-w-full w-full pr-3"
+                  className="w-full max-w-full pr-3"
                   alt="1"
                 />
               </div>
             </div>
           </div>
-          <div className="object-contain h-50 w-100 object-right pt-14">
+          <div className="object-contain object-right h-50 w-100 pt-14">
             <img src={ErtigaRed} alt="vehicle_banner" />
           </div>
         </div>
@@ -124,10 +124,10 @@ function ErtigaCNG() {
       {/* inser form here */}
       {/* <ErtigaCarEnquiry /> */}
       <CarEnquiryDown title="Ertiga CNG" carName="Ertiga CNG" />
-      <div className="container mx-auto pt-6 lg:px-0 md:px-3 py-6">
-        <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-2">
-          <div className="space-y-3 justify-between px-6">
-            <p className="uppercase font-bold text-4xl">
+      <div className="container py-6 pt-6 mx-auto lg:px-0 md:px-3">
+        <div className="grid grid-cols-1 gap-2 lg:grid-cols-2 md:grid-cols-2">
+          <div className="justify-between px-6 space-y-3">
+            <p className="text-4xl font-bold uppercase">
               ERTIGA S-CNG features
             </p>
 
@@ -251,8 +251,8 @@ function ErtigaCNG() {
 //   }
 
 //   return (
-//     <div className='bg-blue-800 py-12 mt-12'>
-//       <div className='container mx-auto space-y-5 lg:px-0 px-5'>
+//     <div className='py-12 mt-12 bg-blue-800'>
+//       <div className='container px-5 mx-auto space-y-5 lg:px-0'>
 //         <h3 className='text-xl font-normal text-white normal-case'>
 //           Get Ertiga CNG On-Road price in Hyderabad
 //         </h3>
@@ -292,10 +292,10 @@ function ErtigaCNG() {
 //             name='returnURL'
 //             value='https://www.saboomaruti.in/thank-you-for-contact-us'
 //           />
-//           <div className='grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4'>
+//           <div className='grid grid-cols-1 gap-4 lg:grid-cols-4 md:grid-cols-2'>
 //             <div>
 //               <input
-//                 className='border h-10 outline-none px-3 rounded-md w-full focus:ring-blue-500 focus:border-blue-500'
+//                 className='w-full h-10 px-3 border rounded-md outline-none focus:ring-blue-500 focus:border-blue-500'
 //                 placeholder='Name'
 //                 id='Last_Name'
 //                 name='Last Name'
@@ -305,7 +305,7 @@ function ErtigaCNG() {
 //             </div>
 //             <div>
 //               <input
-//                 className='border h-10 outline-none px-3 rounded-md w-full focus:ring-blue-500 focus:border-blue-500'
+//                 className='w-full h-10 px-3 border rounded-md outline-none focus:ring-blue-500 focus:border-blue-500'
 //                 placeholder='Enter your phone number'
 //                 minlength='10'
 //                 maxlength='10'
@@ -337,7 +337,7 @@ function ErtigaCNG() {
 //                 id='LEADCF6'
 //                 name='LEADCF6'
 //                 onChange={(e) => setModel(e.target.value)}
-//                 className='block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm'
+//                 className='block w-full px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm'
 //                 defaultValue='Ertiga CNG'
 //               >
 //                 <option disabled>Select Model</option>
@@ -359,7 +359,7 @@ function ErtigaCNG() {
 //                   }
 //                 }}
 //                 defaultValue='Select Outlet'
-//                 className='block w-full h-10 py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm'
+//                 className='block w-full h-10 px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm'
 //               >
 //                 <option disabled>Select Outlet</option>
 //                 <option value='Somajiguda'>Somajiguda</option>
@@ -373,13 +373,13 @@ function ErtigaCNG() {
 //               </select>
 //             </div>
 //           </div>
-//           {/* <div className='flex items-center space-x-1 my-3'>
+//           {/* <div className='flex items-center my-3 space-x-1'>
 //           <input id='comments' name='comments' type='checkbox' required />
 //           <label htmlFor='comments' className='font-medium text-gray-200'>
 //             I Agree
 //           </label>
 //         </div>
-//         <p className='text-gray-200 mb-2'>
+//         <p className='mb-2 text-gray-200'>
 //           <span className='font-semibold'>Disclaimer :</span> I agree that
 //           by clicking the ‘Submit’ button below, I am explicitly soliciting
 //           a call / Message from Saboo Maruti (RKS Motor Pvt. Ltd) or its
@@ -388,11 +388,11 @@ function ErtigaCNG() {
 //           <button
 //             type='submit'
 //             onClick={handleSubmit}
-//             className='h-10 inline-flex justify-center mr-3 py-2 px-4  mt-4 mb-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-red-800 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500'
+//             className='inline-flex justify-center h-10 px-4 py-2 mt-4 mb-2 mr-3 text-sm font-medium text-white bg-red-800 border border-transparent rounded-md shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500'
 //           >
 //             {loading ? (
 //               <div className='flex items-center justify-center'>
-//                 <CgSpinner className='animate-spin h-5 mr-2 text-white' />
+//                 <CgSpinner className='h-5 mr-2 text-white animate-spin' />
 //                 Loading
 //               </div>
 //             ) : (
@@ -403,9 +403,9 @@ function ErtigaCNG() {
 //             <div className='ml-2 text-sm'>
 //               <label
 //                 htmlFor='disclaimer'
-//                 className='font-medium text-gray-700 italic'
+//                 className='italic font-medium text-gray-700'
 //               >
-//                 <span className='text-white font-bold'>Disclaimer</span>
+//                 <span className='font-bold text-white'>Disclaimer</span>
 //                 <span className='text-white font-extralight'>
 //                   : By clicking 'SUBMIT', you agree to our
 //                 </span>
@@ -413,7 +413,7 @@ function ErtigaCNG() {
 //                   href='/maruti-car-terms-and-conditions'
 //                   target='_blank'
 //                   rel='noopener noreferrer'
-//                   className='px-2  text-sm font-bold  text-red-700 '
+//                   className='px-2 text-sm font-bold text-red-700 '
 //                 >
 //                   Terms and Conditions
 //                 </a>
@@ -431,7 +431,7 @@ function Accordian() {
     <>
       <Tab.Group>
         <div className="flex items-center justify-end">
-          <Tab.List className="space-x-1 p-5">
+          <Tab.List className="p-5 space-x-1">
             <Tab
               className={({ selected }) =>
                 selected
@@ -457,16 +457,16 @@ function Accordian() {
           <Tab.Panels>
             {/* exterior */}
             <Tab.Panel>
-              <div className="flex items-center bg-gray-100  justify-between">
-                <p className="flex-1 border px-5 py-3">Features</p>
-                <p className="flex-1 border px-5 py-3">LXI CNG</p>
-                <p className="flex-1 border px-5 py-3">LXI (O) CNG</p>
+              <div className="flex items-center justify-between bg-gray-100">
+                <p className="flex-1 px-5 py-3 border">Features</p>
+                <p className="flex-1 px-5 py-3 border">LXI CNG</p>
+                <p className="flex-1 px-5 py-3 border">LXI (O) CNG</p>
               </div>
 
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">Exterior</span>
                       <ChevronDownIcon
                         className={`${
@@ -475,26 +475,26 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Body Coloured Outside door Handles
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Body Coloured Bumpers
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Wheel Covers (Full)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -503,7 +503,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">INTERIOR</span>
                       <ChevronDownIcon
                         className={`${
@@ -512,75 +512,75 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Dual-tone interiors
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           2nd Row Seats 60:40 Spilt with Slide and Recline
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           3rd Row Seats 50:50 Split with Recline
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           2nd Row Armrest
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Headrest Front Row Seats
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Headrest 2nd Row Seats
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Headrest 3rd Row Seats
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Headrest 3rd Row Seats
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Driver Sode Sunvisor with Ticket Holder
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Chrome Tipped Parking Brake lever
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -589,7 +589,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">
                         COMFORT AND CONVENIENCE
                       </span>
@@ -600,103 +600,103 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Manual AC</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Manual AC</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Air Cooled Twin Cup Holder (Console)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Accessory Socket Front Row with Smartphone Storage
                           Space
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Power Windows (Fr/Rr) with Dr. Side Auto Down
                           Functions
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Power & Tilt Steering
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Bottle Holders (In Each Row)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Cabin Lamp (Fr.+ Rr.)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           2nd Row Adjustable AC
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Remote Keyless Entry
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Accessory Socket 2nd Row with SmartPhone Storage Space
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Day & Night Adjustable IRVM
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Electrical Adjustable ORVM
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Electrical Foldable ORVM
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Passenger Side Sunvisor with Vanity Mirror
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -705,7 +705,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">
                         SAFETY AND SECURITY
                       </span>
@@ -716,81 +716,81 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Dual Airbag</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Dual Airbag</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Rear Parking Sensors
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Central Locking)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           High Speed Alert System
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Security Alarm
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           ABS with EBD and Brake Assist
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Engine Immobilizer
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           ISOFIX Child Seat Anchorages (2nd Row Seats98)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Front Seat Belts with Pre-tensioner & Force Limiters
                           (Dr.+Co-Dr.)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Seat Belt Reminder Lamp with Buzzer (Dr.+Co- Dr.)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Speed Sensitive Auto Door Lock)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -799,7 +799,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">
                         AUDIO & ENTERTAINMENT
                       </span>
@@ -810,99 +810,99 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Headlight Leveling
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           RR Seat belt ELR Type
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           High Mounted Stop Lamp
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Immobiliser</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Immobiliser</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Front Wiper &#38; Washer (2 Speed + intermittent)
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Tubeless Tyres
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Collapsible Steering Column
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Rear Door Child Lock
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Driver Side Airbag
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Passenger Airbag
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Reverse Parking Sensor
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">ABS with EBD</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">ABS with EBD</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Sear Belt Reminder - Dr. + Co - Dr.
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Speed Alert System
                         </p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
-                        <p className="flex-1 border px-5 py-3">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
+                        <p className="flex-1 px-5 py-3 border">✔</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -912,15 +912,15 @@ function Accordian() {
 
             {/* interior */}
             <Tab.Panel>
-              <div className="flex items-center bg-gray-100  justify-between">
-                <p className="flex-1 border px-5 py-3">Specifications</p>
-                <p className="flex-1 border px-5 py-3">VXI CNG</p>
+              <div className="flex items-center justify-between bg-gray-100">
+                <p className="flex-1 px-5 py-3 border">Specifications</p>
+                <p className="flex-1 px-5 py-3 border">VXI CNG</p>
               </div>
 
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">Dimensions</span>
                       <ChevronDownIcon
                         className={`${
@@ -929,40 +929,40 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Overall Length
                         </p>
-                        <p className="flex-1 border px-5 py-3">4395 mm</p>
+                        <p className="flex-1 px-5 py-3 border">4395 mm</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Overall Width
                         </p>
-                        <p className="flex-1 border px-5 py-3">1735 mm</p>
+                        <p className="flex-1 px-5 py-3 border">1735 mm</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Overall Height
                         </p>
-                        <p className="flex-1 border px-5 py-3">1690 mm</p>
+                        <p className="flex-1 px-5 py-3 border">1690 mm</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Wheelbase</p>
-                        <p className="flex-1 border px-5 py-3">2740 mm</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Wheelbase</p>
+                        <p className="flex-1 px-5 py-3 border">2740 mm</p>
                       </div>
 
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Turning Radius
                         </p>
-                        <p className="flex-1 border px-5 py-3">5.2 m</p>
+                        <p className="flex-1 px-5 py-3 border">5.2 m</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Seating Capacity
                         </p>
-                        <p className="flex-1 border px-5 py-3">7</p>
+                        <p className="flex-1 px-5 py-3 border">7</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -972,7 +972,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">Engine</span>
                       <ChevronDownIcon
                         className={`${
@@ -981,83 +981,83 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Engine Type</p>
-                        <p className="flex-1 border px-5 py-3">K15B</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Engine Type</p>
+                        <p className="flex-1 px-5 py-3 border">K15B</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Capacity</p>
-                        <p className="flex-1 border px-5 py-3">1462 CC</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Capacity</p>
+                        <p className="flex-1 px-5 py-3 border">1462 CC</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Compress Ratio
                         </p>
-                        <p className="flex-1 border px-5 py-3">
+                        <p className="flex-1 px-5 py-3 border">
                           (10.5 ± 0.3):1
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Bore X Stroke
                         </p>
-                        <p className="flex-1 border px-5 py-3">
+                        <p className="flex-1 px-5 py-3 border">
                           74.0 x 85.0 mm
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Power (Petrol)
                         </p>
-                        <p className="flex-1 border px-5 py-3">
+                        <p className="flex-1 px-5 py-3 border">
                           77 kW @6,000 RPM
                         </p>
                       </div>
 
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Torque (Petrol)
                         </p>
-                        <p className="flex-1 border px-5 py-3">
+                        <p className="flex-1 px-5 py-3 border">
                           138 Nm @4,400 RPM
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Fuel Tank Capacity (Petrol)
                         </p>
-                        <p className="flex-1 border px-5 py-3">45 L</p>
+                        <p className="flex-1 px-5 py-3 border">45 L</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Emission Type
                         </p>
-                        <p className="flex-1 border px-5 py-3">BS6</p>
+                        <p className="flex-1 px-5 py-3 border">BS6</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Power (CNG)</p>
-                        <p className="flex-1 border px-5 py-3">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Power (CNG)</p>
+                        <p className="flex-1 px-5 py-3 border">
                           68 kW @ 6,000 RPM
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Torque (CNG)</p>
-                        <p className="flex-1 border px-5 py-3">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Torque (CNG)</p>
+                        <p className="flex-1 px-5 py-3 border">
                           122 Nm @ 4,400 RPM
                         </p>
                       </div>
 
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Fuel Efficiency (CNG)
                         </p>
-                        <p className="flex-1 border px-5 py-3">26.08 km/kg</p>
+                        <p className="flex-1 px-5 py-3 border">26.08 km/kg</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Fuel Tank Capacity (CNG)
                         </p>
-                        <p className="flex-1 border px-5 py-3">
+                        <p className="flex-1 px-5 py-3 border">
                           60 L (Water Equivalent)
                         </p>
                       </div>
@@ -1068,7 +1068,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">
                         Suspension System
                       </span>
@@ -1079,21 +1079,21 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Front</p>
-                        <p className="flex-1 border px-5 py-3">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Front</p>
+                        <p className="flex-1 px-5 py-3 border">
                           MacPherson strut & Coil Spring
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Rear</p>
-                        <p className="flex-1 border px-5 py-3">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Rear</p>
+                        <p className="flex-1 px-5 py-3 border">
                           Torsion Beam & Coil Spring
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Tyre Size</p>
-                        <p className="flex-1 border px-5 py-3">185/65 R15</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Tyre Size</p>
+                        <p className="flex-1 px-5 py-3 border">185/65 R15</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -1102,7 +1102,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">WEIGHT</span>
                       <ChevronDownIcon
                         className={`${
@@ -1111,15 +1111,15 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Kerb Weight</p>
-                        <p className="flex-1 border px-5 py-3">1235 KG</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Kerb Weight</p>
+                        <p className="flex-1 px-5 py-3 border">1235 KG</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">
                           Gross Vehical Weight
                         </p>
-                        <p className="flex-1 border px-5 py-3 ">1795 KG</p>
+                        <p className="flex-1 px-5 py-3 border ">1795 KG</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -1129,7 +1129,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">Brakes</span>
                       <ChevronDownIcon
                         className={`${
@@ -1138,15 +1138,15 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Front</p>
-                        <p className="flex-1 border px-5 py-3">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Front</p>
+                        <p className="flex-1 px-5 py-3 border">
                           (Ventilated) Disc
                         </p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Rear</p>
-                        <p className="flex-1 border px-5 py-3">
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Rear</p>
+                        <p className="flex-1 px-5 py-3 border">
                           (Leading & Trailing) Drum
                         </p>
                       </div>
@@ -1157,7 +1157,7 @@ function Accordian() {
               <Disclosure>
                 {({ open }) => (
                   <>
-                    <Disclosure.Button className="flex w-full justify-between border px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
+                    <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border hover:bg-gray-200 focus:outline-none">
                       <span className="text-base uppercase">
                         DRIVE AND TRANSMISSION
                       </span>
@@ -1168,13 +1168,13 @@ function Accordian() {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="pb-2 text-sm text-gray-500">
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3 ">Transmission</p>
-                        <p className="flex-1 border px-5 py-3">5 MT</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border ">Transmission</p>
+                        <p className="flex-1 px-5 py-3 border">5 MT</p>
                       </div>
-                      <div className="flex items-center text-base justify-between">
-                        <p className="flex-1 border px-5 py-3">Drive</p>
-                        <p className="flex-1 border px-5 py-3">2WD, FF</p>
+                      <div className="flex items-center justify-between text-base">
+                        <p className="flex-1 px-5 py-3 border">Drive</p>
+                        <p className="flex-1 px-5 py-3 border">2WD, FF</p>
                       </div>
                     </Disclosure.Panel>
                   </>
@@ -1185,7 +1185,7 @@ function Accordian() {
         </div>
       </Tab.Group>
       <br></br>
-      <div className="text-xs px-5">
+      <div className="px-5 text-xs">
         <p>
           <sup>*</sup>Black glass on the vehicles is due to lighting effect.
         </p>
@@ -1201,16 +1201,16 @@ function Accordian() {
           <sup>*</sup>Prices shown above are ex showroom Delhi.
         </p>
       </div>
-      <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-2">
-        <div className="space-y-3 my-auto text-left px-6">
-          <p className="uppercase font-bold text-4xl">ERTIGA S-CNG FAQ'S</p>
+      <div className="grid grid-cols-1 gap-2 lg:grid-cols-2 md:grid-cols-2">
+        <div className="px-6 my-auto space-y-3 text-left">
+          <p className="text-4xl font-bold uppercase">ERTIGA S-CNG FAQ'S</p>
         </div>
-        <div className="object-contain h-50 w-100 object-right pt-14">
+        <div className="object-contain object-right h-50 w-100 pt-14">
           <Disclosure>
             {({ open }) => (
               <>
-                <Disclosure.Button className="flex w-full justify-between border-b-2  px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
-                  <span className="text-base uppercase font-bold">
+                <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border-b-2 hover:bg-gray-200 focus:outline-none">
+                  <span className="text-base font-bold uppercase">
                     1. should i get my ertiga s-cng kit checked regularly?
                   </span>
                 </Disclosure.Button>
@@ -1237,8 +1237,8 @@ function Accordian() {
           <Disclosure>
             {({ open }) => (
               <>
-                <Disclosure.Button className="flex w-full justify-between border-b-2  px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
-                  <span className="text-base uppercase font-bold">
+                <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border-b-2 hover:bg-gray-200 focus:outline-none">
+                  <span className="text-base font-bold uppercase">
                     2. What happens if i get the s-cng kit tuned from outside.
                   </span>
                 </Disclosure.Button>
@@ -1257,8 +1257,8 @@ function Accordian() {
           <Disclosure>
             {({ open }) => (
               <>
-                <Disclosure.Button className="flex w-full justify-between border-b-2  px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
-                  <span className="text-base uppercase font-bold">
+                <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border-b-2 hover:bg-gray-200 focus:outline-none">
+                  <span className="text-base font-bold uppercase">
                     3. What are the modes for driving the ertiga s-cng?
                   </span>
                 </Disclosure.Button>
@@ -1295,8 +1295,8 @@ function Accordian() {
           <Disclosure>
             {({ open }) => (
               <>
-                <Disclosure.Button className="flex w-full justify-between border-b-2  px-5 py-3 text-left text-sm font-medium hover:bg-gray-200 focus:outline-none">
-                  <span className="text-base uppercase font-bold">
+                <Disclosure.Button className="flex justify-between w-full px-5 py-3 text-sm font-medium text-left border-b-2 hover:bg-gray-200 focus:outline-none">
+                  <span className="text-base font-bold uppercase">
                     4. what to do if the cng malfunctioning warning light keeps
                     glowing when i am driving?
                   </span>

@@ -81,7 +81,7 @@ function BookAService() {
        src={require('../../assets/banners/Website_Maruti_Suzuki_Service_Republic_Day_Service_carnival_Saboo_RKS_Motor_service (1).webp')}
         alt="Maruti Suzuki Service  republic Offers Saboo RKS Motor"
       //  className="w-full h-auto lg:mt-16 "
-      className="hidden h-auto sm:block lg:mt-16"
+      className="hidden w-full h-auto sm:block lg:mt-16"
       />
 
        <img

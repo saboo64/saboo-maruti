@@ -122,7 +122,7 @@ const offer_products = [
   {
    name: "Tour S",
     price: "60,146",
-    desc:" Tour s Plus Kit",
+    desc:" +Tour s Plus Kit",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/Tour-S.png",
     explore: "/maruti-dzire-tour-s-on-road-price-in-hyderabad",
   },

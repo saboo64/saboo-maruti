@@ -1,23 +1,19 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import { toast } from "react-toastify";
-import Header from "../../components/header/Header";
 import axios from "axios";
 import { CgSpinner } from "react-icons/cg";
+import { toast } from "react-toastify";
+import Header from "../../components/header/Header";
 // import { useNavigate } from 'react-router-dom';
 import { Helmet } from "react-helmet";
-import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
-import { GrFormNext, GrFormPrevious } from "react-icons/gr";
-
-import { Autoplay, Navigation } from "swiper";
 
 function DrivingSchool() {
-  const navigationPrevRef = useRef(null);
-  const navigationNextRef = useRef(null);
+  // const navigationPrevRef = useRef(null);
+  // const navigationNextRef = useRef(null);
   return (
     <>
       <Header />
@@ -116,14 +112,14 @@ function DrivingSchool() {
         className="w-full sm:hidden"
       /> */}
       <img
-      src={require('../../Website_Maruti_Suzuki_Driving_School_January_New_Year_2025_offers_Saboo_RKS_Motor (1).webp')}
-      // src={require("../../assets/banners/vehicles/banners-2024/Website_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
+        src={require("../../Website_Maruti_Suzuki_Driving_School_January_New_Year_2025_offers_Saboo_RKS_Motor (1).webp")}
+        // src={require("../../assets/banners/vehicles/banners-2024/Website_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
         alt="Maruti Suzuki Driving School Year-end Offers Saboo RKS Motor Learn Driving Driving School"
         className="hidden w-full mt-14 sm:block"
       />
       <img
-      src={require('../../Website_Mobile_Maruti_Suzuki_Driving_School_January_New_Year_2025_offers_Saboo_RKS_Motor.webp')}
-       // src={require("../../assets/banners/vehicles/banners-2024/Website_Mobile_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
+        src={require("../../Website_Mobile_Maruti_Suzuki_Driving_School_January_New_Year_2025_offers_Saboo_RKS_Motor.webp")}
+        // src={require("../../assets/banners/vehicles/banners-2024/Website_Mobile_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
         alt="Maruti Suzuki Driving School December Offers Saboo RKS Motor Learn Driving Driving School"
         className="w-full sm:hidden"
       />
