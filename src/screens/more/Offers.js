@@ -170,7 +170,7 @@ function Offers() {
         />
         <meta
           name="keywords"
-          content="2025 Year Maruti offers, maruti exchange January offers, Festival Offfers, January 2024 offers, January offers, maruti car offers, maruti spresso offers, maruti alto offers, maruti wagonr offers, maruti celerio offers, maruti celerio x offers, maruti eeco offers, maruti ertiga offers, maruti brezza offers, maruti swift offers, maruti dzire offers, spresso offers, alto offers, wagonr offers, celerio offers, celerio x offers, ertiga offers, swift offers, dzire offers, brezza offers,eeco offers,2025 Discounts and festive Offers"
+          content="2025 Year Maruti offers, maruti exchange January offers, Festival Offfers, January 2025 offers, January offers, maruti car offers, maruti spresso offers, maruti alto offers, maruti wagonr offers, maruti celerio offers, maruti celerio x offers, maruti eeco offers, maruti ertiga offers, maruti brezza offers, maruti swift offers, maruti dzire offers, spresso offers, alto offers, wagonr offers, celerio offers, celerio x offers, ertiga offers, swift offers, dzire offers, brezza offers,eeco offers,2025 Discounts and festive Offers"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

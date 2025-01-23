@@ -92,7 +92,7 @@ function Gallery() {
         />
         <meta
           name='description'
-          content='Saboo Nexa authorized Maruti Suzuki Nexa Dealer in Secunderabad & Hyderabad. View latest Showroom, Maruti new car & Workshop images of Saboo Maruti.'
+          content='Saboo Arena authorized Maruti Suzuki Arena Dealer in Secunderabad & Hyderabad. View latest Showroom, Maruti new car & Workshop images of Saboo Maruti.'
         />
         <meta name='keywords' content='Maruti Suzuki Nexa Showrrom' />
         <meta name='author' content='Broaddcast' />
@@ -101,11 +101,11 @@ function Gallery() {
         <meta property='og:type' content='website' />
         <meta
           property='og:title'
-          content='Maruti Suzuki Nexa Showroom in Hyderabad | Maruti Suzuki Nexa Workshop'
+          content='Maruti Suzuki Arena Showroom in Hyderabad | Maruti Suzuki Nexa Workshop'
         />
         <meta
           property='og:description'
-          content='Saboo Nexa authorized Maruti Suzuki Nexa dealer in Secunderabad & Hyderabad. Visit our website for latest showroom updates, New Maruti car images & car service updates.'
+          content='Saboo Arena authorized Maruti Suzuki Nexa dealer in Secunderabad & Hyderabad. Visit our website for latest showroom updates, New Maruti car images & car service updates.'
         />
         <meta property='og:url' content='https://www.saboonexa.in/gallery/' />
         <meta property='og:site_name' content='Saboo Nexa RKS Motors Pvt Ltd' />
@@ -127,7 +127,7 @@ function Gallery() {
         />
         <meta
           property='twitter:description'
-          content='Saboo Nexa authorized Maruti Suzuki Nexa dealer in Secunderabad & Hyderabad. Visit our website for latest showroom updates, New Maruti car images & car service updates.'
+          content='Saboo Arena authorized Maruti Suzuki Arena dealer in Secunderabad & Hyderabad. Visit our website for latest showroom updates, New Maruti car images & car service updates.'
         />
         <meta
           name='twitter:image'
@@ -138,16 +138,16 @@ function Gallery() {
       </Helmet>
       <img
         src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Banner/banners/Saboo-Maruti-Suzuki-Nexa-Gallery-Banner.png'
-        className='max-w-full w-full'
+        className='w-full max-w-full'
         alt='Gallery banner'
       />
-      <div className='shadow sm:px-0 px-4' id='gallery'>
-        <p className='mx-auto container py-4'>
+      <div className='px-4 shadow sm:px-0' id='gallery'>
+        <p className='container py-4 mx-auto'>
           <Link to='/'>Home</Link> / Gallery
         </p>
       </div>
-      <div className='container mx-auto py-16'>
-        <div className='grid md:grid-cols-3 gap-8 md:px-0 grid-cols-2 px-5'>
+      <div className='container py-16 mx-auto'>
+        <div className='grid grid-cols-2 gap-8 px-5 md:grid-cols-3 md:px-0'>
           {displayData}
         </div>
         <ReactPaginate

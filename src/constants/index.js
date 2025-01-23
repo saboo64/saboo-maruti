@@ -922,6 +922,13 @@ export const workshop = [
       "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/showroom+locations/webp-showrooms/webp-service/RKS-Motor-Maruti-Suzuki-Service-Center-Near-Me-Tadbund.webp",
   },
   {
+    map: "https://www.google.com/maps/place/Nexa+Service+(Saboo+RKS+Motor,Kompally)/@17.4150348,78.3917255,12z/data=!4m6!3m5!1s0x3bcb9b0050416a8d:0xe39be48925b874ef!8m2!3d17.5143238!4d78.4809953!16s%2Fg%2F11wv6xqs76?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D",
+    address: "Suchitra",
+    image:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/Saboo+RKS+Motor+Nexa+Service+Kompally.webp",
+  },
+
+  {
     map: "https://www.google.com/maps/place/Saboo+RKS+Motor+-+NEXA+(Kompally,+Medchal)/@17.5116444,78.4801322,15z/data=!4m6!3m5!1s0x3bcb913447d392c9:0xb4d82d61c40f4a40!8m2!3d17.5116444!4d78.4801322!16s%2Fg%2F11n379xm0y?hl=en&entry=ttu",
     address: "Kompally",
     image:

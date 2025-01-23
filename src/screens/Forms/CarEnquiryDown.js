@@ -148,7 +148,7 @@ export const CarEnquiryDown = ({ title, carName }) => {
   }
 
   return (
-    // <div className='bg-blue-800 py-12 mt-12'>
+    // <div className='py-12 mt-12 bg-blue-800'>
     <div className="container p-5 py-6 mx-auto mt-8 bg-gray-100 shadow rounded-3xl lg:p-6">
       <h3 className="mb-5 text-xl font-semibold text-blue-800 normal-case">
         {/* Get {title} On-Road price in Hyderabad */}
@@ -246,6 +246,7 @@ export const CarEnquiryDown = ({ title, carName }) => {
             <option value="Malakpet">Malakpet</option>
             <option value="Secunderabad">Secunderabad</option>
             <option value="Kushaiguda">Kushaiguda</option>
+           
             <option value="Kompally">Kompally</option>
             <option value="Shamirpet">Shamirpet</option>
             <option value="Narsingi">Narsingi</option>

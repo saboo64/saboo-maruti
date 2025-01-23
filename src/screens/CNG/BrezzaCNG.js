@@ -15,7 +15,7 @@ function BrezzaCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Brezza CNG On Road Price in Secunderabad, Hyderabad & 2024
+          Maruti Brezza CNG On Road Price in Secunderabad, Hyderabad & 2025
           Offers
         </title>
         <meta

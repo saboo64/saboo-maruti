@@ -105,8 +105,8 @@ const NewCarEnquiry = ({ title, carName }) => {
   }
 
   return (
-    <div className="bg-blue-800 py-12 mt-12">
-      <div className="container mx-auto space-y-5 lg:px-0 px-5">
+    <div className="py-12 mt-12 bg-blue-800">
+      <div className="container px-5 mx-auto space-y-5 lg:px-0">
         <h3 className="text-xl font-normal text-white normal-case">{title}</h3>
         <form
           id="arenaCarEnq2"
@@ -144,10 +144,10 @@ const NewCarEnquiry = ({ title, carName }) => {
             name="returnURL"
             value="https://www.saboomaruti.in/thank-you-for-contact-us"
           />
-          <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4">
+          <div className="grid grid-cols-1 gap-4 lg:grid-cols-4 md:grid-cols-2">
             <div>
               <input
-                className="border h-10 outline-none px-3 rounded-md w-full focus:ring-blue-500 focus:border-blue-500"
+                className="w-full h-10 px-3 border rounded-md outline-none focus:ring-blue-500 focus:border-blue-500"
                 placeholder="Name"
                 id="Last_Name"
                 name="Last Name"
@@ -157,7 +157,7 @@ const NewCarEnquiry = ({ title, carName }) => {
             </div>
             <div>
               <input
-                className="border h-10 outline-none px-3 rounded-md w-full focus:ring-blue-500 focus:border-blue-500"
+                className="w-full h-10 px-3 border rounded-md outline-none focus:ring-blue-500 focus:border-blue-500"
                 placeholder="Enter your phone number"
                 minlength="10"
                 maxlength="10"
@@ -189,7 +189,7 @@ const NewCarEnquiry = ({ title, carName }) => {
                 id="LEADCF6"
                 name="LEADCF6"
                 onChange={(e) => setModel(e.target.value)}
-                className="block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+                className="block w-full px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
                 defaultValue="Alto 800"
               >
                 <option disabled>Select Model</option>
@@ -203,13 +203,14 @@ const NewCarEnquiry = ({ title, carName }) => {
                 id="LEADCF23"
                 name="LEADCF23"
                 onChange={(e) => setOutlet(e.target.value)}
-                className="block w-full h-10 py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+                className="block w-full h-10 px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
               >
                 <option disabled>Select Outlet</option>
                 <option value="Somajiguda">Somajiguda</option>
                 <option value="Malakpet">Malakpet</option>
                 <option value="Secunderabad">Secunderabad</option>
                 <option value="Kushaiguda">Kushaiguda</option>
+                
                 <option value="Kompally">Kompally</option>
                 <option value="Shamirpet">Shamirpet</option>
                 <option value="Narsingi">Narsingi</option>
@@ -217,13 +218,13 @@ const NewCarEnquiry = ({ title, carName }) => {
               </select>
             </div>
           </div>
-          {/* <div className='flex items-center space-x-1 my-3'>
+          {/* <div className='flex items-center my-3 space-x-1'>
           <input id='comments' name='comments' type='checkbox' required />
           <label htmlFor='comments' className='font-medium text-gray-200'>
             I Agree
           </label>
         </div>
-        <p className='text-gray-200 mb-2'>
+        <p className='mb-2 text-gray-200'>
           <span className='font-semibold'>Disclaimer :</span> I agree that
           by clicking the ‘Submit’ button below, I am explicitly soliciting
           a call / Message from Saboo Maruti (RKS Motor Pvt. Ltd) or its
@@ -232,11 +233,11 @@ const NewCarEnquiry = ({ title, carName }) => {
           <button
             type="submit"
             onClick={handleSubmit}
-            className="h-10 inline-flex justify-center mr-3 py-2 px-4  mt-4 mb-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-red-800 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+            className="inline-flex justify-center h-10 px-4 py-2 mt-4 mb-2 mr-3 text-sm font-medium text-white bg-red-800 border border-transparent rounded-md shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
           >
             {loading ? (
               <div className="flex items-center justify-center">
-                <CgSpinner className="animate-spin h-5 mr-2 text-white" />
+                <CgSpinner className="h-5 mr-2 text-white animate-spin" />
                 Loading
               </div>
             ) : (
@@ -247,9 +248,9 @@ const NewCarEnquiry = ({ title, carName }) => {
             <div className="ml-2 text-sm">
               <label
                 htmlFor="disclaimer"
-                className="font-medium text-gray-700 italic"
+                className="italic font-medium text-gray-700"
               >
-                <span className="text-white font-bold">Disclaimer</span>
+                <span className="font-bold text-white">Disclaimer</span>
                 <span className="text-white font-extralight">
                   : By clicking 'SUBMIT', you agree to our
                 </span>
@@ -257,7 +258,7 @@ const NewCarEnquiry = ({ title, carName }) => {
                   href="/maruti-car-terms-and-conditions"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-2  text-sm font-bold  text-red-700 "
+                  className="px-2 text-sm font-bold text-red-700 "
                 >
                   Terms and Conditions
                 </a>
