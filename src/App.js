@@ -413,7 +413,7 @@ function LeadPopup({ setOpen }) {
   const [phone, setPhone] = useState("");
   const [model, setModel] = useState("");
   const [outlet, setOutlet] = useState("");
-
+  const [isChecked, setIsChecked] = useState(false);
   const [loading, setLoading] = useState(false);
 
   var result = "";
@@ -421,12 +421,17 @@ function LeadPopup({ setOpen }) {
   result += d.getDate() + "/" + (d.getMonth() + 1) + "/" + d.getFullYear();
 
   // const [submitted, setSubmitted] = useState(false);
+  //Handle checkbox
+  const handleCheckboxChange = (e) => {
+    setIsChecked(e.target.checked); // Update the state when checkbox is toggled
+  };
 
   const checkFormValidity = () => {
     return (
       name.trim() !== "" &&
       phone.length === 10 &&
       model.trim() !== "" &&
+      isChecked && 
       !loading
     );
   };
@@ -730,28 +735,37 @@ function LeadPopup({ setOpen }) {
               </div>
 
               <div className="p-2 text-xs italic text-gray-900 mb-7">
-                <span className="font-semibold">Disclaimer :</span> By clicking
-                'SUBMIT',&nbsp; you agree to our
+              <label className="flex items-center">      
+              <input
+               type="checkbox"
+               id="disclaimer"
+               className="mr-2 appearance-none h-6 w-10  sm:h-15 sm:w-10 md:h-6 md:w-6 lg:h-6 lg:w-6 xl:h-4 xl:w-4 border-2 border-gray-400 rounded-sm checked:bg-green-500 checked:border-gray-300 checked:after:content-['✔'] checked:after:text-white checked:after:absolute checked:after:left-1/2 checked:after:top-1/2 checked:after:transform checked:after:-translate-x-1/2 checked:after:-translate-y-1/2 focus:outline-none relative"
+               required
+               checked={isChecked}
+               onChange={handleCheckboxChange}
+                />
+                <span className="font-semibold">Disclaimer :<span className="text-gray-500"> I authorize RKS Motor to send notifications via SMS/RCS/WhatsApp/Email </span></span>  &nbsp; 
                 <a
                   href="/maruti-car-terms-and-conditions"
                   className="text-blue-600 hover:text-blue-800 visited:text-purple-600 hover:underline hover:font-bold"
                 >
-                  &nbsp;Terms and Conditions
+                  {/* &nbsp;Terms and Conditions */}
                 </a>
+                </label>
               </div>
               <div className="flex items-center justify-center">
                 <button
                   type="submit"
                   onClick={handleSubmit}
                   disabled={!checkFormValidity()}
-                  className={`h-10 inline-flex justify-center mr-3 py-2 px-4 mt-4 mb-2 border border-transparent shadow-sm text-sm font-medium rounded-full w-1/2 text-black bg-white ${
+                  className={`h-10 inline-flex justify-center hover:bg-gray-500 hover:text-white mr-3 py-2 px-4 mt-4 mb-2 border border-transparent shadow-sm text-sm font-medium rounded-full w-1/2 text-black bg-white ${
                     !checkFormValidity()
                       ? " cursor-not-allowed"
                       : " focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
                   }`}
                 >
                   {loading ? (
-                    <div className="flex items-center justify-center">
+                    <div className="flex items-center justify-center ">
                       <CgSpinner className="h-5 text-white animate-spin" />
                       Loading
                     </div>

@@ -31,6 +31,7 @@ const serviceBanners = [
   {
     desktopImg: require('../../assets/banners/sankranti_website_service.webp'),
     //mobileImg: require('../../assets/banners/sankranti_mobile_service.webp'),
+    mobileImg: require('../../assets/banners/mobile_republic.webp'),
     alt: 'Sankranti',
     link: '',
   },

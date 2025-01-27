@@ -1,76 +1,92 @@
 const dzireSliders = [
   {
     original:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/dzire_electric_sunroof.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/front-left-side-47.avif",
     thumbnail:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/dzire_electric_sunroof.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/front-left-side-47.avif",
+  },
+  
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/taillight-44.avif",
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/taillight-44.avif",
   },
   {
     original:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/front-grill-shot.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/grille-97.avif",
     thumbnail:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/front-grill-shot.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/grille-97.avif",
   },
   {
     original:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/6_airbags.webp",
-    thumbnail:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/6_airbags.webp",
-  },
-  {
-    original:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/360-deg-camera.webp",
-    thumbnail:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/360-deg-camera.webp",
-  },
-  {
-    original:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/amt_gear.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/headlight-43.avif",
 
     thumbnail:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/amt_gear.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/headlight-43.avif",
   },
   {
     thumbnail:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/wireless_charger.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/antenna-80.avif",
 
     original:
-      "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/whats-new-section/wireless_charger.webp",
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/antenna-80.avif",
   },
-  // {
-  //   original:
-  //     "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/feature-videos-section/headlamps_drl.webp",
+   {
+     original:
+       "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/front-fog-lamp-41.avif",
 
-  //   thumbnail:
-  //     "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/dzire-launch-2024/feature-videos-section/headlamps_drl.webp",
-  // },
-  // {
-  //   thumbnail:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Instrument-Cluster.webp",
+     thumbnail:
+       "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/front-fog-lamp-41.avif",
+   },
+   {
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Instrument-Cluster.webp",
 
-  //   original:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Instrument-Cluster.webp",
-  // },
-  // {
-  //   original:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Steering-Controls.webp",
+     original:
+       "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Instrument-Cluster.webp",
+   },
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/rear-air-vents-86.avif",
 
-  //   thumbnail:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Steering-Controls.webp",
-  // },
-  // {
-  //   original:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Steering-Wheel.webp",
-  //   thumbnail:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Steering-Wheel.webp",
-  // },
-  // {
-  //   original:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Upholstery-Details.webp",
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/rear-air-vents-86.avif",
+  },
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Steering-Wheel.webp",
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Steering-Wheel.webp",
+  },
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Upholstery-Details.webp",
 
-  //   thumbnail:
-  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Upholstery-Details.webp",
-  // },
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/sliders/maruti-dzire/Maruti-Suzuki-Dzire-Upholstery-Details.webp",
+  },
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/gear-shifter-87.avif",
+
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/gear-shifter-87.avif",
+  },
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/sun-roof-moon-roof-81.avif",
+
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/sun-roof-moon-roof-81.avif",
+  },
+  {
+    original:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/airbags-94.avif",
+
+    thumbnail:
+      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/dzire-exterior-interior-images/airbags-94.avif",
+  },
 ];
 
 const dzireColors = [

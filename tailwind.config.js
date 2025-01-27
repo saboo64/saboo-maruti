@@ -10,6 +10,7 @@ module.exports = {
         "banner-image": "url('/src/assets/banner-1.jpg')",
         
       },
+      
     },
   },
   plugins: [],
