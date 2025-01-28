@@ -318,23 +318,23 @@ export const products = [
     seating: "5",
     fuel: "Petrol",
   },
-  {
-    id: 7,
-    name: "Alto",
-    price: "3.54 L",
-    logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/index/alto.png",
-    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-alto800.webp",
-    brouchure:
-      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_Alto_Brand_Brochure.pdf",
-    explore: "/maruti-alto-800-on-road-price-in-hyderabad",
-    bookNow: "/",
-    power: "35.3",
-    engine: "F8D Petrol",
-    transmission: " 5 MT",
-    mileage: "22.05",
-    seating: "4,5",
-    fuel: "Petrol/CNG",
-  },
+  // {
+  //   id: 7,
+  //   name: "Alto",
+  //   price: "3.54 L",
+  //   logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/index/alto.png",
+  //   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-alto800.webp",
+  //   brouchure:
+  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_Alto_Brand_Brochure.pdf",
+  //   explore: "/maruti-alto-800-on-road-price-in-hyderabad",
+  //   bookNow: "/",
+  //   power: "35.3",
+  //   engine: "F8D Petrol",
+  //   transmission: " 5 MT",
+  //   mileage: "22.05",
+  //   seating: "4,5",
+  //   fuel: "Petrol/CNG",
+  // },
   {
     id: 2,
     name: "Alto K10",
@@ -489,17 +489,17 @@ export const cngProducts = [
 
     mileage: "25.75",
   },
-  {
-    name: "Alto",
-    price: "5.13 L",
-    logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/index/alto.png",
-    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-alto800.webp",
-    brouchure:
-      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_Alto_Brand_Brochure.pdf",
-    explore: "/maruti-alto-800-cng-on-road-price-in-hyderabad",
-    bookNow: "/",
-    mileage: "31.59",
-  },
+  // {
+  //   name: "Alto",
+  //   price: "5.13 L",
+  //   logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/index/alto.png",
+  //   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-alto800.webp",
+  //   brouchure:
+  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_Alto_Brand_Brochure.pdf",
+  //   explore: "/maruti-alto-800-cng-on-road-price-in-hyderabad",
+  //   bookNow: "/",
+  //   mileage: "31.59",
+  // },
 
   {
     name: "Alto K10 CNG",
@@ -605,16 +605,16 @@ export const cngProducts = [
 ];
 
 export const tourProducts = [
-  {
-    name: "Alto",
-    petrol: "22.05 km/l",
-    logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/tour/logos/Tour_H1.webp",
-    img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/tour-H1.png",
-    brouchure:
-      "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_Alto_Brand_Brochure.pdf",
-    explore: "/maruti-alto-tour-h1-on-road-price-in-hyderabad",
-    bookNow: "/",
-  },
+  // {
+  //   name: "Alto",
+  //   petrol: "22.05 km/l",
+  //   logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/tour/logos/Tour_H1.webp",
+  //   img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/cng-cars/tour-H1.png",
+  //   brouchure:
+  //     "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_Alto_Brand_Brochure.pdf",
+  //   explore: "/maruti-alto-tour-h1-on-road-price-in-hyderabad",
+  //   bookNow: "/",
+  // },
 
   {
     name: "Dzire",

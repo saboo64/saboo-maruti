@@ -13,7 +13,7 @@ import { ImLinkedin } from 'react-icons/im';
 
 const navigation = {
   cars: [
-    { name: 'ALTO', to: '/maruti-alto-800-on-road-price-in-hyderabad' },
+    // { name: 'ALTO', to: '/maruti-alto-800-on-road-price-in-hyderabad' },
     {
       name: 'ALTO K10',
       to: '/all-new-maruti-alto-k10-on-road-price-in-hyderabad',

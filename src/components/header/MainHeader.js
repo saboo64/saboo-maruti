@@ -14,7 +14,7 @@ const navigation = {
     },
   ],
   vehicles: [
-    { name: "Alto", to: "/maruti-alto-800-on-road-price-in-hyderabad" },
+    // { name: "Alto", to: "/maruti-alto-800-on-road-price-in-hyderabad" },
     {
       name: "Alto K10",
       to: "/all-new-maruti-alto-k10-on-road-price-in-hyderabad",
@@ -32,7 +32,7 @@ const navigation = {
     { name: "EECO", to: "/maruti-eeco-on-road-price-in-hyderabad" },
   ],
   cng: [
-    { name: "Alto CNG", to: "/maruti-alto-800-cng-on-road-price-in-hyderabad" },
+    // { name: "Alto CNG", to: "/maruti-alto-800-cng-on-road-price-in-hyderabad" },
     {
       name: "Alto K10 CNG",
       to: "/alto-k10-cng",

@@ -585,7 +585,7 @@ function CarEnquiry() {
                                 <option disabled>Select Model</option>
                                 <optgroup label="Hatchback">
                                   <option value="Alto K10">Alto K10</option>
-                                  <option value="Alto 800">Alto</option>
+                                  {/* <option value="Alto 800">Alto</option> */}
                                   <option value="Wagon R">Wagon R</option>
                                   <option value="Celerio">Celerio</option>
                                   <option value="Swift">Swift</option>
