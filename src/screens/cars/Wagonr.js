@@ -594,7 +594,7 @@ const CarsSlider = ({ scrollToCarEnquiry }) => {
           </div>
           <div className="flex flex-col items-center space-y-2 md:flex-row md:space-y-0 md:space-x-2 md:mt-5 md:mb-1">
             <a
-              href="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/WagonR+Saboo+RKS+brochure+2025.pdf"
+              href="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/brochures/Saboo_RKS_WagonR_Brochure.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 block w-full px-4 py-2 text-sm text-center text-white bg-blue-800 border border-blue-800 rounded-full shadow-sm hover:bg-red-600 hover:border-none hover:text-white md:mb-0"
