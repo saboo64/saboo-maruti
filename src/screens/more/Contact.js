@@ -408,16 +408,16 @@ function Contact() {
                             helperText={modelError}
                           >
                             <MenuItem disabled>Select Model</MenuItem>
-                            <MenuItem value="Alto 800">Alto 800</MenuItem>
-                            <MenuItem value="Alto K10">Alto K10</MenuItem>
-                            <MenuItem value="Wagon R">Wagon R</MenuItem>
-                            <MenuItem value="Celerio">Celerio</MenuItem>
-                            <MenuItem value="Swift">Swift</MenuItem>
-                            <MenuItem value="Dzire">Dzire</MenuItem>
-                            <MenuItem value="S-Presso">S-Presso</MenuItem>
-                            <MenuItem value="Ertiga">Ertiga</MenuItem>
-                            <MenuItem value="Brezza">Brezza</MenuItem>
-                            <MenuItem value="Eeco">Eeco</MenuItem>
+                            {/* <MenuItem value="Alto 800">Alto 800</MenuItem> */}
+                            <MenuItem value="ALTOK10">ALTOK10</MenuItem>
+                            <MenuItem value="WAGON-R">WAGON-R</MenuItem>
+                            <MenuItem value="CELERIO">CELERIO</MenuItem>
+                            <MenuItem value="SWIFT">SWIFT</MenuItem>
+                            <MenuItem value="DZIRE">DZIRE</MenuItem>
+                            <MenuItem value="S-PRESSO">S-PRESSO</MenuItem>
+                            <MenuItem value="ERTIGA">ERTIGA</MenuItem>
+                            <MenuItem value="BREZZA">BREZZA</MenuItem>
+                            <MenuItem value="EECO">EECO</MenuItem>
                           </TextField>
                         </div>
                         <div className="">
