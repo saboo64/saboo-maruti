@@ -95,7 +95,7 @@ import RewardPoints from "./screens/more/RewardPoints";
 import { Link } from "react-router-dom";
 import TermsAndConditions from "./screens/more/TermsAndConditions";
 import Landing from "./Landing";
-import Test from "./Test";
+// import Test from "./Test";
 
 function App() {
   const [open, setOpen] = useState(false);
@@ -224,7 +224,7 @@ function App() {
 
         <Routes>
           <Route path="/landing-page" element={<Landing />} />
-          <Route path="/test" element ={<Test/>}/>
+          {/* <Route path="/test" element ={<Test/>}/> */}
 
           <Route path="/" element={<Home />} />
           <Route path="/header" element={<Header2 />} />
@@ -688,7 +688,7 @@ function LeadPopup({ setOpen }) {
                     className="block w-full h-10 px-4 py-2 bg-white border border-gray-300 rounded-full shadow-sm focus:outline-none focus:ring-blue-800 focus:border-blue-800 sm:text-sm"
                   >
                     <option disabled>Select Model</option>
-                    <option value="ALTO">ALTO</option>
+                    {/* <option value="ALTO">ALTO</option> */}
                     <option value="ALTO K10">ALTO K10</option>
                     <option value="WAGON R">WAGON R</option>
                     <option value="CELERIO">CELERIO</option>

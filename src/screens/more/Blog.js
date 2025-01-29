@@ -44,17 +44,17 @@ function Blog() {
         className='w-full lg:mt-16'
         alt='blog-screen-banner'
       />
-      <p className='text-center text-red-600 text-3xl'>
+      <p className='text-3xl text-center text-red-600'>
         News and Social Media Articles
       </p>
-      <p className='text-center mt-2 mb-1 animate-pulse'>
+      <p className='mt-2 mb-1 text-center animate-pulse'>
         "Stay connected and always be in the know with the most recent updates
         and exciting happenings from your beloved Maruti Suzuki Dealer!"
       </p>
-      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 container mx-auto p-5 sm:px-0'>
+      <div className='container grid grid-cols-1 gap-4 p-5 mx-auto sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:px-0'>
         {blogsData.map((blog) => (
           <div
-            className='flex flex-col bg-white border shadow-md rounded-lg overflow-hidden relative max-h-max '
+            className='relative flex flex-col overflow-hidden bg-white border rounded-lg shadow-md max-h-max '
             key={blog.id}
           >
             <img src={blog.img} alt={blog.id} />
@@ -66,19 +66,19 @@ function Blog() {
                 href={blog.href}
                 target='_blank'
                 rel='noreferrer'
-                className='font-semibold text-sm'
+                className='text-sm font-semibold'
               >
                 {blog.subTitle}
               </a>
-              <p className='my-3 text-sm text-gray-600 mb-10'>{blog.desc}</p>
-              <div className='absolute bottom-3 right-8 mb-4'>
+              <p className='my-3 mb-10 text-sm text-gray-600'>{blog.desc}</p>
+              <div className='absolute mb-4 bottom-3 right-8'>
                 <a
                   href={blog.href}
                   rel='noreferrer noopener'
                   target='_blank'
-                  className='border-b-2 border-red-500 text-red-500 pb-1'
+                  className='pb-1 text-red-500 border-b-2 border-red-500'
                 >
-                  Read More
+                 Read More
                 </a>
               </div>
             </div>

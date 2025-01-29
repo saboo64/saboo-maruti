@@ -24,7 +24,7 @@ function About() {
             </div>
 
             <div className='px-8 py-2 my-auto space-y-5'>
-              <p className='text-left text-base text-[#293e91] leading-8'>
+              <p className='text-left text-base text-[#293e91] leading-8 '>
                 Our widespread presence throughout the city includes four sales
                 outlets, seven workshops, one commercial outlet, and two
                 exclusive NEXA showrooms for premium cars.
@@ -181,8 +181,8 @@ export const WhyChooseUs = () => {
           </div>
 
           <div class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8'>
-            <div class='bg-white  rounded-3xl shadow-md overflow-hidden border border-blue-100 text-center flex flex-col items-center'>
-              <div class='p-6 flex flex-col items-center mt-4'>
+            <div class='bg-white  rounded-3xl shadow-md overflow-hidden hover:shadow-xl hover:scale-95  border border-blue-100 text-center flex flex-col items-center'>
+              <div class='p-6 flex flex-col items-center mt-4 '>
                 <FaCarOn className='w-10 h-10 mb-4 text-blue-800' />
 
                 <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
@@ -198,7 +198,7 @@ export const WhyChooseUs = () => {
               </div>
             </div>
 
-            <div class='bg-white  rounded-3xl overflow-hidden border-blue-100 shadow-md border text-center'>
+            <div class='bg-white  rounded-3xl overflow-hidden border-blue-100 shadow-md border text-center hover:shadow-xl hover:scale-95'>
               <div class='p-6 flex flex-col items-center mt-4'>
                 <GiAutoRepair className='w-10 h-10 mb-4 text-blue-800' />
                 <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
@@ -214,7 +214,7 @@ export const WhyChooseUs = () => {
               </div>
             </div>
 
-            <div class='bg-white  rounded-3xl overflow-hidden border border-blue-100 shadow-md text-center'>
+            <div class='bg-white  rounded-3xl overflow-hidden border border-blue-100 shadow-md text-center hover:shadow-xl hover:scale-95'>
               <div class='p-6 flex flex-col items-center mt-4'>
                 <IoShieldCheckmark className='w-10 h-10 mb-4 text-blue-800' />
                 <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
@@ -230,7 +230,7 @@ export const WhyChooseUs = () => {
               </div>
             </div>
 
-            <div class='bg-white  rounded-3xl overflow-hidden border-blue-100 shadow-md border text-center'>
+            <div class='bg-white  rounded-3xl overflow-hidden border-blue-100 shadow-md border text-center hover:shadow-xl hover:scale-95'>
               <div class='p-6 flex flex-col items-center mt-4'>
                 <IoMdTrophy className='w-10 h-10 mb-4 text-blue-800' />
 
