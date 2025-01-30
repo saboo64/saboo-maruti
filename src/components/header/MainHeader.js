@@ -16,17 +16,17 @@ const navigation = {
   vehicles: [
     // { name: "Alto", to: "/maruti-alto-800-on-road-price-in-hyderabad" },
     {
-      name: "Alto K10",
+      name: "ALTO-K10",
       to: "/all-new-maruti-alto-k10-on-road-price-in-hyderabad",
     },
-    { name: "Wagon R", to: "/maruti-wagon-r-on-road-price-in-hyderabad" },
-    { name: "Celerio", to: "/the-all-new-celerio" },
-    { name: "Swift 2024", to: "/maruti-swift-car-on-road-price-in-hyderabad" },
-    { name: "Dzire", to: "/maruti-swift-dzire-on-road-price-in-hyderabad" },
-    { name: "S-Presso", to: "/maruti-s-presso-on-road-price-in-hyderabad" },
-    { name: "Ertiga", to: "/maruti-ertiga-on-road-price-in-hyderabad" },
+    { name: "WAGON-R", to: "/maruti-wagon-r-on-road-price-in-hyderabad" },
+    { name: "CELERIO", to: "/the-all-new-celerio" },
+    { name: "SWIFT 2024", to: "/maruti-swift-car-on-road-price-in-hyderabad" },
+    { name: "DZIRE", to: "/maruti-swift-dzire-on-road-price-in-hyderabad" },
+    { name: "S-PRESSO", to: "/maruti-s-presso-on-road-price-in-hyderabad" },
+    { name: "ERTIGA", to: "/maruti-ertiga-on-road-price-in-hyderabad" },
     {
-      name: "Brezza",
+      name: "BREZZA",
       to: "/maruti-new-brezza-on-road-price-in-hyderabad",
     },
     { name: "EECO", to: "/maruti-eeco-on-road-price-in-hyderabad" },
@@ -34,30 +34,30 @@ const navigation = {
   cng: [
     // { name: "Alto CNG", to: "/maruti-alto-800-cng-on-road-price-in-hyderabad" },
     {
-      name: "Alto K10 CNG",
+      name: "ALTO-K10 CNG",
       to: "/alto-k10-cng",
     },
-    { name: "Swift CNG", to: "/maruti-new-swift-cng" },
+    { name: "SWIFT CNG", to: "/maruti-new-swift-cng" },
 
     {
-      name: "Wagon R CNG",
+      name: "WAGON-R CNG",
       to: "/maruti-wagonr-cng-on-road-price-in-hyderabad",
     },
     {
-      name: "Celerio CNG",
+      name: "CELERIO CNG",
       to: "/maruti-celerio-cng-on-road-price-in-hyderabad",
     },
     {
-      name: "Dzire CNG",
+      name: "DZIRE CNG",
       to: "/maruti-swift-dzire-cng-on-road-price-in-hyderabad",
     },
-    { name: "Ertiga CNG", to: "/maruti-ertiga-cng-on-road-price-in-hyderabad" },
+    { name: "ERTIGA CNG", to: "/maruti-ertiga-cng-on-road-price-in-hyderabad" },
     {
-      name: "S-Presso CNG",
+      name: "S-PRESSO CNG",
       to: "/maruti-s-presso-cng-on-road-price-in-hyderabad",
     },
     {
-      name: "Brezza CNG",
+      name: "BREZZA CNG",
       to: "/maruti-brezza-cng-on-road-price",
     },
 

@@ -86,7 +86,7 @@ function AltoK10() {
         <div className="mx-5">
           <div className="flex flex-col lg:flex-row lg:space-x-4 rounded-3xl">
             <div className="mb-4 lg:w-1/2 lg:mb-0" ref={carEnquiryRef}>
-              <CarEnquiryDown title="Alto K10" carName="Alto K10" />
+              <CarEnquiryDown title="ALTOK10" carName="ALTOK10" />
             </div>
             <div className="lg:w-1/2">
               <Colors />
@@ -501,7 +501,7 @@ const CarsSlider = ({ scrollToCarEnquiry }) => {
                               >
                                 <option disabled>Select Model</option>
 
-                                <option value="Alto K10">Alto K10</option>
+                                <option value="ALTOK10">ALTOK10</option>
                               </select>
                             </div>
                           </div>

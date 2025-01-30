@@ -123,7 +123,7 @@ function SpressoCNG() {
       {/* insert form here */}
 
       {/* <SpressoCarEnquiry /> */}
-      <CarEnquiryDown title="Spresso CNG" carName="Spresso CNG" />
+      <CarEnquiryDown title="S-PRESSO CNG" carName="S-PRESSO CNG" />
       <div className="container py-6 pt-6 mx-auto lg:px-0 md:px-3">
         <div className="grid grid-cols-1 gap-2 lg:grid-cols-2 md:grid-cols-2">
           <div className="justify-between px-6 space-y-3">

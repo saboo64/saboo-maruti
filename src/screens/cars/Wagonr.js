@@ -95,7 +95,7 @@ function Wagonr() {
         <div className="mx-5">
           <div className="flex flex-col lg:flex-row lg:space-x-4">
             <div className="mb-4 lg:w-1/2 lg:mb-0" ref={carEnquiryRef}>
-              <CarEnquiryDown title="Wagon R" carName="Wagon R" />
+              <CarEnquiryDown title="WAGON-R" carName="WAGON-R" />
             </div>
             <div className="lg:w-1/2">
               <Colors />

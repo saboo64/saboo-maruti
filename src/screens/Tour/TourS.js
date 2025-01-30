@@ -153,7 +153,7 @@ function TourS() {
         </div>
       </div>
       {/* <TourSCarEnquiry /> */}
-      <CarEnquiryDown title="Tour S" carName="Tour S" id="enquiry" />
+      <CarEnquiryDown title="TOUR-S" carName="TOUR-S" id="enquiry" />
       <div className="container mx-auto" id="specs">
         <Accordian />
       </div>

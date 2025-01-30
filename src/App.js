@@ -689,10 +689,10 @@ function LeadPopup({ setOpen }) {
                   >
                     <option disabled>Select Model</option>
                     {/* <option value="ALTO">ALTO</option> */}
-                    <option value="ALTO K10">ALTO K10</option>
-                    <option value="WAGON R">WAGON R</option>
+                    <option value="ALTOK10">ALTOK10</option>
+                    <option value="WAGON-R">WAGON-R</option>
                     <option value="CELERIO">CELERIO</option>
-                    <option value="EPIC SWIFT 2024">EPIC SWIFT 2024</option>
+                    <option value="EPIC-SWIFT-2024">EPIC-SWIFT-2024</option>
                     <option value="SWIFT">SWIFT</option>
                     <option value="DZIRE">DZIRE</option>
                     <option value="S-PRESSO">S-PRESSO</option>

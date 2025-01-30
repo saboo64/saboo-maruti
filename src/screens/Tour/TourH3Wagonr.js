@@ -154,7 +154,7 @@ function TourH3Wagonr() {
       </div>
 
       {/* <TourH3CarEnquiry /> */}
-      <CarEnquiryDown title="Tour H3" carName="Tour H3" id="specs" />
+      <CarEnquiryDown title="TOUR-H3" carName="TOUR-H3" id="specs" />
       <div className="container mx-auto">
         <Accordian />
       </div>

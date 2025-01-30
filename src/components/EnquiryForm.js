@@ -106,19 +106,19 @@ const EnquiryForm = () => {
             <option value="">Select Model</option>{" "}
             {/* Make sure to have an empty value option */}
             <optgroup label="Arena">
-              <option value="Alto K10">Alto K10</option>
+              <option value="ALTOK10">ALTOK10</option>
               {/* <option value="Alto 800">Alto</option> */}
-              <option value="Wagon R">Wagon R</option>
-              <option value="Celerio">Celerio</option>
-              <option value="Swift">Swift</option>
-              <option value="Dzire">Dzire</option>
-              <option value="S-Presso">S-Presso</option>
-              <option value="Ertiga">Ertiga</option>
-              <option value="Brezza">Brezza</option>
-              <option value="Eeco">Eeco</option>
+              <option value="WAGON-R">WAGON-R</option>
+              <option value="CELERIO">CELERIO</option>
+              <option value="SWIFT">SWIFT</option>
+              <option value="DZIRE">DZIRE</option>
+              <option value="S-PRESSO">S-PRESSO</option>
+              <option value="ERTIGA">ERTIGA</option>
+              <option value="BREZZA">BREZZA</option>
+              <option value="EECO">EECO</option>
             </optgroup>
             <optgroup label="nexa">
-              <option>Invicto</option>
+              <option>INVICTO</option>
               <option>Fronx</option>
               <option>Jimny</option>
               <option>Grand Vitara</option>

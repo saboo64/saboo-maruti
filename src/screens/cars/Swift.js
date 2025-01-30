@@ -91,7 +91,7 @@ function Swift() {
           {/* Car Enquiry and Colors */}
           <div className="flex flex-col lg:flex-row lg:space-x-4 rounded-3xl">
             <div className="mb-4 lg:w-1/2 lg:mb-0" ref={carEnquiryRef}>
-              <CarEnquiryDown title="Swift" carName="Epic Swift 2024" />
+              <CarEnquiryDown title="SWIFT" carName="EPIC-SWIFT-2024" />
             </div>
             <div className="lg:w-1/2">
               <Colors />

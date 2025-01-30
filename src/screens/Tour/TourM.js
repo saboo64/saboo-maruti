@@ -147,7 +147,7 @@ function TourM() {
         </div>
       </div>
 
-      <CarEnquiryDown title="Tour M" carName="Tour M" />
+      <CarEnquiryDown title="TOUR-M" carName="TOUR-M" />
       <div className="container mx-auto" id="specs">
         <Accordian />
       </div>

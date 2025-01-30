@@ -128,7 +128,7 @@ function DzireCNG() {
 
       {/* insert form here  */}
       {/* <DzireCarEnquiry /> */}
-      <CarEnquiryDown title="Dzire CNG" carName="Dzire CNG" />
+      <CarEnquiryDown title="DZIRE CNG" carName="DZIRE CNG" />
       <div className="container py-6 pt-6 mx-auto lg:px-0 md:px-3">
         <div className="grid grid-cols-1 gap-2 lg:grid-cols-2 md:grid-cols-2">
           <div className="justify-between px-6 space-y-3">

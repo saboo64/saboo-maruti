@@ -146,7 +146,7 @@ function TourV() {
         </div>
       </div>
 
-      <CarEnquiryDown title="Tour V" carName="Tour V" id="enquiry" />
+      <CarEnquiryDown title="TOUR-V" carName="TOUR-V" id="enquiry" />
 
       <div className="container mx-auto" id="specs">
         <Accordian />

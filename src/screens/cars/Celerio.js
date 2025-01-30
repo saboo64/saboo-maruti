@@ -83,7 +83,7 @@ function Celerio() {
         <div className="mx-5 ">
           <div className="flex flex-col lg:flex-row lg:space-x-4 rounded-3xl">
             <div className="mb-4 lg:w-1/2 lg:mb-0" ref={carEnquiryRef}>
-              <CarEnquiryDown title="Celerio" carName="Celerio" />
+              <CarEnquiryDown title="CELERIO" carName="CELERIO" />
             </div>
             <div className="lg:w-1/2">
               <Colors />
