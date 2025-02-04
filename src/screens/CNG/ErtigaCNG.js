@@ -17,17 +17,22 @@ function ErtigaCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Ertiga CNG On Road Price in Secunderabad, Hyderabad & 2025
-          Offers | Maruti Ertiga CNG Offers
+        Maruti Ertiga CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Ertiga CNG On Road Price in Secunderabad, Hyderabad & 2022 Offers | Maruti Ertiga CNG Offers"
+          content=" Maruti Ertiga CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor. | Maruti Ertiga CNG Offers"
         />
         <meta
           name="description"
           content="Maruti Ertiga CNG in Secunderabad & Hyderabad. Ertiga CNG Mileage 31.12KMPL. Best price & offers on Maruti Ertiga at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Ertiga online. "
         />
+      <meta
+          name="keywords"
+          content="2025 Discounts and Festive Offers, Ertiga On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Ertiga Price, Ertiga Service Center, Maruti Ertiga On Road Price, Maruti Ertiga Offers, Maruti Ertiga Price, Maruti Ertiga Service Center, Maruti Ertiga Service Center Near Me, Maruti Suzuki Ertiga Price, Maruti Suzuki Ertiga On Road Price, Maruti Suzuki Ertiga Offers, Maruti Suzuki Ertiga, Ertiga 2025 Offers, Ertiga 2025 Price, Ertiga On Road Price in Hyderabad, Ertiga Offers in Hyderabad, Ertiga Price in Hyderabad, Maruti Ertiga 2025 Price, Maruti Ertiga 2025 On Road Price, Maruti Ertiga 2025 Offers, Maruti Ertiga 2025 Price in Hyderabad, Maruti Ertiga 2025 On Road Price in Hyderabad, Maruti Suzuki Ertiga 2025 Price, Maruti Suzuki Ertiga 2025 On Road Price, Maruti Suzuki Ertiga 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Ertiga Discounts, Maruti Suzuki Ertiga 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
+        />
+
+        
 
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

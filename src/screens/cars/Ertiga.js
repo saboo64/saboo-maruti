@@ -31,12 +31,12 @@ function Ertiga() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki Ertiga 2025 Discounts and festive Offers – Perfect
+          Maruti Suzuki Ertiga 2025 Discounts and February Valentine's-Day Offers – Perfect
           Family Car! at RKS Motor
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Ertiga 2025 Discounts and festive Offers – Perfect Family Car! at RKS Motor"
+          content="Maruti Suzuki Ertiga 2025 Discounts and February Valentine's-Day Offers – Perfect Family Car! at RKS Motor"
         />
         <meta
           name="description"
@@ -44,7 +44,7 @@ function Ertiga() {
         />
         <meta
           name="keywords"
-          content="Maruti Ertiga offer, Ertiga 2025 Discounts and festive Offers, family car discount, Maruti Suzuki Ertiga deals, Arena Ertiga offer , 2025 Discounts and festive Offers"
+          content="Maruti Ertiga offer, Ertiga 2025 Discounts and festive Offers,Valentine's-day,Mahashivaratri 2025 offers, family car discount, Maruti Suzuki Ertiga deals, Arena Ertiga offer , 2025 Discounts and festive Offers"
         />
         <meta name="author" content="Broaddcast" />
 

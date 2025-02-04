@@ -31,20 +31,20 @@ function Swift() {
     <>
       <Helmet>
         <title>
-          Unmissable 2025 Discounts and festive Offers on Maruti Suzuki Swift –
+          Unmissable 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Swift –
           Bold & Dynamic! at RKS Motor
         </title>
         <meta
           name="title"
-          content="Unmissable 2025 Discounts and festive Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content="Unmissable 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
         />
         <meta
           name="description"
-          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and festive Offers! Known for its bold looks and dynamic performance, Swift is now available with limited-time offers. Book your Swift today!"
+          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and February Valentine's-Day Offers! Known for its bold looks and dynamic performance, Swift is now available with limited-time offers. Book your Swift today!"
         />
         <meta
           name="keywords"
-          content="Maruti Swift offer, Swift 2025 Discounts and festive Offers, bold hatchback discount, Maruti Suzuki Swift deals, Arena Swift offer, 2025 Discounts and festive Offers."
+          content="Maruti Swift offer, Swift 2025 Discounts and festive Offers,2025 Mahashivaratri Car Sale,Valentine's Day Car Sale,2025 Car Purchase Discounts, bold hatchback discount, Maruti Suzuki Swift deals, Arena Swift offer, 2025 Discounts and festive Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

@@ -95,6 +95,7 @@ import RewardPoints from "./screens/more/RewardPoints";
 import { Link } from "react-router-dom";
 import TermsAndConditions from "./screens/more/TermsAndConditions";
 import Landing from "./Landing";
+import { Detailing } from "./Detailing";
 // import Test from "./Test";
 
 function App() {
@@ -223,6 +224,7 @@ function App() {
         {/* <FixedBottomRightPhoto /> */}
 
         <Routes>
+        <Route path="/detailing" element={<Detailing />} />
           <Route path="/landing-page" element={<Landing />} />
           {/* <Route path="/test" element ={<Test/>}/> */}
 

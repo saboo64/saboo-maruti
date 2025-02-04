@@ -17,11 +17,11 @@ function TourM() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki Ertiga Tour M Commercial | Commercial Ertiga Tour M Car
+        Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Ertiga Tour M Commercial | Commercial Ertiga Tour M Car"
+          content="Maruti Suzuki Ertiga Tour M Commercial – Starting at ₹9.80 Lakh at RKS Motor!"
         />
         <meta
           name="description"
@@ -29,7 +29,7 @@ function TourM() {
         />
         <meta
           name="keywords"
-          content="ertiga on road price, ertiga offers, ertiga price, ertiga service center, maruti ertiga on road price, maruti ertiga offers, maruti ertiga price, maruti ertiga service center, maruti ertiga service center near me, maruti suzuki ertiga price, maruti suzuki ertiga on road price, maruti suzuki ertiga offers,maruti suzuki ertiga, ertiga on road price, ertiga 2024 offers, ertiga 2024 price, ertiga on road price in hyderabad, breza offers in hyderabad, ertiga price in hyderabad, maruti ertiga 2024 price, maruti ertiga 2024 on road price, maruti ertiga 2024 offers, maruti ertiga 2024 price in hyderabad, maruti ertiga 2024 on road price in hyderabad, Maruti Suzuki ertiga 2024 price, Maruti Suzuki ertiga 2024 on road price, maruti suzuki ertiga 2024 offers,  vitara ertiga offers, Vitara ertiga price, vitara ertiga on road price, vitara ertiga 2024 offers, vitara ertiga 2024 price, vitara ertiga 2024 on road price, vitara ertiga 2024 offers"
+          content="ertiga on road price, ertiga offers, ertiga price, ertiga service center, maruti ertiga on road price, maruti ertiga offers, maruti ertiga price, maruti ertiga service center, maruti ertiga service center near me, maruti suzuki ertiga price, maruti suzuki ertiga on road price, maruti suzuki ertiga offers,maruti suzuki ertiga, ertiga on road price, ertiga 2025 offers, ertiga 2025 price, ertiga on road price in hyderabad, breza offers in hyderabad, ertiga price in hyderabad, maruti ertiga 2025 price, maruti ertiga 2024 on road price, maruti ertiga 2025 offers, maruti ertiga 2025 price in hyderabad, maruti ertiga 2025 on road price in hyderabad, Maruti Suzuki ertiga 2025 price, Maruti Suzuki ertiga 2025 on road price, maruti suzuki ertiga 2025 offers,  vitara ertiga offers, Vitara ertiga price, vitara ertiga on road price, vitara ertiga 2025 offers, vitara ertiga 2025 price, vitara ertiga 2025 on road price, vitara ertiga 2025 offers,Mahashivratri offers, Valentine's Day deals"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

@@ -106,20 +106,20 @@ function Brezza() {
     <>
       <Helmet>
         <title>
-          Maruti 2025 Discounts and festive Offers on Maruti Suzuki Vitara
+          Maruti 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Vitara
           Brezza – SUV Style! at RKS Motor
         </title>
         <meta
           name="title"
-          content="Maruti 2025 Discounts and festive Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content="Maruti 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
         />
         <meta
           name="description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
+          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers on Valentine's-day,Mahashivaratri! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
         />
         <meta
           name="keywords"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
+          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and on Valentine's-day,Mahashivaratri  Offers! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

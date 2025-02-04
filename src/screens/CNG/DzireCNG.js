@@ -17,12 +17,11 @@ function DzireCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Dzire CNG On Road Price in Secunderabad, Hyderabad & 2025
-          Offers | Maruti Dzire CNG Offers
+        Maruti Dzire CNG  On Road Price in Hyderabad starts Rs.8.44 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="MMaruti Dzire CNG On Road Price in Secunderabad, Hyderabad & 2025 Discounts and festive Offers | Maruti Dzire CNG Offers"
+          content="Maruti Dzire CNG  On Road Price in Hyderabad starts Rs.8.44 Lakh at RKS Motor. | Maruti Dzire CNG Offers"
         />
         <meta
           name="description"
@@ -30,7 +29,7 @@ function DzireCNG() {
         />
         <meta
           name="keywords"
-          content="January-offers,2025 Discounts and festive Offers,dzire on road price, dzire offers, dzire price, dzire service center, maruti dzire on road price, maruti dzire offers, maruti dzire price, maruti dzire service center, maruti dzire service center near me, maruti suzuki dzire price, maruti suzuki dzire on road price, maruti suzuki dzire offers,maruti suzuki dzire, dzire on road price, dzire 2025 offers, dzire 2025 price, dzire on road price in hyderabad, brezza offers in hyderabad, dzire price in hyderabad, maruti dzire 2025 price, maruti dzire 2025 on road price, maruti dzire 2025 offers, maruti dzire 2025 price in hyderabad, maruti dzire 2025 on road price in hyderabad, Maruti Suzuki dzire 2025 price, Maruti Suzuki dzire 2025 on road price, maruti suzuki dzire 2025 offers,  vitara dzire offers, Vitara dzire price, vitara dzire on road price, vitara dzire 2025 offers, vitara dzire 2025 price, vitara dzire 2025 on road price, vitara dzire 2025 offers"
+          content="2025 Discounts and Festive Offers, Dzire On Road Price,Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Dzire Price, Dzire Service Center, Maruti Dzire On Road Price, Maruti Dzire Offers, Maruti Dzire Price, Maruti Dzire Service Center, Maruti Dzire Service Center Near Me, Maruti Suzuki Dzire Price, Maruti Suzuki Dzire On Road Price, Maruti Suzuki Dzire Offers, Maruti Suzuki Dzire, Dzire 2025 Offers, Dzire 2025 Price, Dzire On Road Price in Hyderabad, Dzire Offers in Hyderabad, Dzire Price in Hyderabad, Maruti Dzire 2025 Price, Maruti Dzire 2025 On Road Price, Maruti Dzire 2025 Offers, Maruti Dzire 2025 Price in Hyderabad, Maruti Dzire 2025 On Road Price in Hyderabad, Maruti Suzuki Dzire 2025 Price, Maruti Suzuki Dzire 2025 On Road Price, Maruti Suzuki Dzire 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Dzire Discounts, Maruti Suzuki Dzire 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

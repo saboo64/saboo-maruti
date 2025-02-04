@@ -159,97 +159,60 @@ export function About2() {
   );
 }
 
+
+   //                                WY TO CHOOSE US SECTION
+
+const carData = [
+  {
+    Icon: FaCarOn,
+    title: 'Effortless Car Buying',
+    description: 'Enjoy a seamless car-buying experience with us. Simply choose your dream car, and we will handle the rest.',
+  },
+  {
+    Icon: GiAutoRepair,
+    title: 'Extensive Service Network',
+    description: 'Operating at around 22 touchpoints, we are one of the largest automobile dealerships in the state.',
+  },
+  {
+    Icon: IoShieldCheckmark,
+    title: 'Unwavering Reliability',
+    description: 'Backed by years of unwavering commitment and expertise, Saboo RKS Motor is a brand with synonymous trust and dependability.',
+  },
+  {
+    Icon: IoMdTrophy,
+    title: 'Market Leader',
+    description: 'We are Telangana\'s No. 1 Maruti Suzuki Dealer, an automobile dealer of choice.',
+  }
+];
+
 export const WhyChooseUs = () => {
   return (
-    <>
-      <div class='container my-24 mx-auto md:px-6'>
-        <section class='mb-32'>
-          <div class='text-center'>
-            <h2
-              class='text-3xl lg:text-4xl font-bold mb-6 text-[#293e91]'
-              x-intersect="$el.classList.add('tracking-in-expand')"
-            >
-              Why Choose Us
-            </h2>
-            <p
-              class='text-lg font-light text-gray-600 max-w-2xl mx-auto mb-12'
-              x-intersect="$el.classList.add('fade-in-bottom')"
-            >
-              Your trusted source for top-notch vehicles and unparalleled
-              service. Find your dream car hassle-free with us!
-            </p>
-          </div>
+    <div className="container mx-auto my-24 md:px-6">
+      <section className="mb-32">
+        <div className="text-center">
+          <h2 className="text-3xl lg:text-4xl font-bold mb-6 text-[#293e91]" x-intersect="$el.classList.add('tracking-in-expand')">
+            Why Choose Us
+          </h2>
+          <p className="max-w-2xl mx-auto mb-12 text-lg font-light text-gray-600" x-intersect="$el.classList.add('fade-in-bottom')">
+            Your trusted source for top-notch vehicles and unparalleled service. Find your dream car hassle-free with us!
+          </p>
+        </div>
 
-          <div class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8'>
-            <div class='bg-white  rounded-3xl shadow-md overflow-hidden hover:shadow-xl hover:scale-95  border border-blue-100 text-center flex flex-col items-center'>
-              <div class='p-6 flex flex-col items-center mt-4 '>
-                <FaCarOn className='w-10 h-10 mb-4 text-blue-800' />
-
-                <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
-                  Effortless Car Buying
-                </h3>
-                <p
-                  class='text-md font-light text-gray-600 max-w-2xl mx-auto mb-12'
-                  x-intersect="$el.classList.add('fade-in-left')"
-                >
-                  Enjoy a seamless car-buying experience with us. Simply choose
-                  your dream car, and we will handle the rest.
+        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 md:gap-8">
+          {carData.map((card, index) => (
+            <div key={index} className="flex flex-col items-center overflow-hidden text-center duration-300 bg-white border border-blue-100 shadow-md rounded-3xl hover:shadow-xl hover:scale-95 ">
+              <div className="flex flex-col items-center p-6 mt-4">
+                <card.Icon className="w-10 h-10 mb-4 text-blue-800" />
+                <h3 className="mb-2 text-xl font-semibold text-blue-800 lg:text-2xl">{card.title}</h3>
+                <p className="max-w-2xl mx-auto mb-12 font-light text-gray-600 text-md" x-intersect="$el.classList.add('fade-in-left')">
+                  {card.description}
                 </p>
               </div>
             </div>
-
-            <div class='bg-white  rounded-3xl overflow-hidden border-blue-100 shadow-md border text-center hover:shadow-xl hover:scale-95'>
-              <div class='p-6 flex flex-col items-center mt-4'>
-                <GiAutoRepair className='w-10 h-10 mb-4 text-blue-800' />
-                <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
-                  Extensive Service Network
-                </h3>
-                <p
-                  class='text-md font-light text-gray-600 max-w-2xl mx-auto mb-12'
-                  x-intersect="$el.classList.add('fade-in-left')"
-                >
-                  Operating at around 22 touchpoints, we are one of the largest
-                  automobile dealerships in the state.
-                </p>
-              </div>
-            </div>
-
-            <div class='bg-white  rounded-3xl overflow-hidden border border-blue-100 shadow-md text-center hover:shadow-xl hover:scale-95'>
-              <div class='p-6 flex flex-col items-center mt-4'>
-                <IoShieldCheckmark className='w-10 h-10 mb-4 text-blue-800' />
-                <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
-                  Unwavering Reliability
-                </h3>
-                <p
-                  class='text-md font-light text-gray-600 max-w-2xl mx-auto mb-12'
-                  x-intersect="$el.classList.add('fade-in-left')"
-                >
-                  Backed by years of unwavering commitment and expertise, Saboo
-                  RKS Motor is a brand with synonymous trust and dependability.
-                </p>
-              </div>
-            </div>
-
-            <div class='bg-white  rounded-3xl overflow-hidden border-blue-100 shadow-md border text-center hover:shadow-xl hover:scale-95'>
-              <div class='p-6 flex flex-col items-center mt-4'>
-                <IoMdTrophy className='w-10 h-10 mb-4 text-blue-800' />
-
-                <h3 class='text-xl lg:text-2xl font-semibold mb-2 text-blue-800 '>
-                  Market Leader
-                </h3>
-                <p
-                  class='text-md font-light text-gray-600 max-w-2xl mx-auto mb-12'
-                  x-intersect="$el.classList.add('fade-in-left')"
-                >
-                  We are Telangana's No. 1 Maruti Suzuki Dealer, an automobile
-                  dealer of choice.
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-      </div>
-    </>
+          ))}
+        </div>
+      </section>
+    </div>
   );
 };
 

@@ -17,12 +17,11 @@ function WagonrCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Wagon R CNG On Road Price in Secunderabad, Hyderabad & 2025
-          Discounts and festive Offers
+        Maruti  Wagon R CNG  On Road Price in Hyderabad starts Rs.6.44 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Wagon R CNG On Road Price in Secunderabad, Hyderabad & 2025 Discounts and festive Offers"
+          content=" Maruti  Wagon R CNG  On Road Price in Hyderabad starts Rs.6.44 Lakh at RKS Motor & 2025 Discounts and festive Offers"
         />
         <meta
           name="description"
@@ -30,7 +29,7 @@ function WagonrCNG() {
         />
         <meta
           name="keywords"
-          content="January-offers, 2025 Discounts and festive Offers,wagon r on road price, wagon r offers, wagon r price, wagon r service center, maruti wagon r on road price, maruti wagon r offers, maruti wagon r price, maruti wagon r service center, maruti wagon r service center near me, maruti suzuki wagon r price, maruti suzuki wagon r on road price, maruti suzuki wagon r offers,maruti suzuki wagon r, wagon r on road price, wagon r 2025 offers, wagon r 2025 price, wagon r on road price in hyderabad, brezza offers in hyderabad, wagon r price in hyderabad, maruti wagon r 2025 price, maruti wagon r 2025 on road price, maruti wagon r 2025 offers, maruti wagon r 2025 price in hyderabad, maruti wagon r 2025 on road price in hyderabad, Maruti Suzuki wagon r 2025 price, Maruti Suzuki wagon r 2025 on road price, maruti suzuki wagon r 2025 offers,  vitara wagon r offers, Vitara wagon r price, vitara wagon r on road price, vitara wagon r 2025 offers, vitara wagon r 2025 price, vitara wagon r 2025 on road price, vitara wagon r 2025 offers"
+          content="2025 Discounts and Festive Offers, Wagon R CNG On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Wagon R CNG Price, Wagon R CNG Service Center, Maruti Wagon R CNG On Road Price, Maruti Wagon R CNG Offers, Maruti Wagon R CNG Price, Maruti Wagon R CNG Service Center, Maruti Wagon R CNG Service Center Near Me, Maruti Suzuki Wagon R CNG Price, Maruti Suzuki Wagon R CNG On Road Price, Maruti Suzuki Wagon R CNG Offers, Maruti Suzuki Wagon R CNG, Wagon R CNG 2025 Offers, Wagon R CNG 2025 Price, Wagon R CNG On Road Price in Hyderabad, Wagon R CNG Offers in Hyderabad, Wagon R CNG Price in Hyderabad, Maruti Wagon R CNG 2025 Price, Maruti Wagon R CNG 2025 On Road Price, Maruti Wagon R CNG 2025 Offers, Maruti Wagon R CNG 2025 Price in Hyderabad, Maruti Wagon R CNG 2025 On Road Price in Hyderabad, Maruti Suzuki Wagon R CNG 2025 Price, Maruti Suzuki Wagon R CNG 2025 On Road Price, Maruti Suzuki Wagon R CNG 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Wagon R CNG Discounts, Maruti Suzuki Wagon R CNG 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

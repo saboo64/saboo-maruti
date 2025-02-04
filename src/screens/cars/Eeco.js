@@ -29,12 +29,12 @@ function Eeco() {
     <>
       <Helmet>
         <title>
-          Get Maruti Eeco at Unbeatable Prices -2025 Discounts and festive
+          Get Maruti Eeco at Unbeatable Prices -2025 Discounts and February Valentine's-Day
           Offers at RKS Motor.
         </title>
         <meta
           name="title"
-          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and festive Offers at RKS Motor."
+          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and February Valentine's-Day Offers at RKS Motor."
         />
         <meta
           name="description"
@@ -42,7 +42,7 @@ function Eeco() {
         />
         <meta
           name="keywords"
-          content="Maruti car offers ,2025 Discounts and festive Offers, 2025 offers , Maruti 2025 year  offers , Saboo Maruti , RKS Motor , EECO 2025 Discounts and festive Offers."
+          content="Maruti car offers ,2025 Discounts and  Valentine's-day,Mahashivaratri 2025 offers , Maruti 2025 year  offers , Saboo Maruti , RKS Motor , EECO 2025 Discounts and festive Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

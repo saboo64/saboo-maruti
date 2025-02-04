@@ -17,16 +17,21 @@ function CelerioCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Celerio CNG On Road Price in Secunderabad, Hyderabad & 2024
-          Offers
+        Maruti Celerio CNG  On Road Price in Hyderabad starts Rs.6.73 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Celerio CNG Price in Hyderabad | Celerio CNG Mileage & Specifications"
+          content=" Maruti Celerio CNG  On Road Price in Hyderabad starts Rs.6.73 Lakh at RKS Motor | Celerio CNG Mileage & Specifications"
         />
         <meta
           name="description"
           content="Maruti Celerio CNG in Secunderabad & Hyderabad. Celerio CNG Mileage . Best price & offers on Maruti celerio at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti celerio CNG online"
+        />
+
+<meta
+          name="keywords"
+          content=" 2025 Discounts and Festive Offers, Celerio On Road Price, Alto Offers, Celerio Price, Celerio Service Center, Maruti Celerio On Road Price, Maruti Celerio Offers, Maruti Celerio Price, Maruti Celerio Service Center, Maruti Celerio Service Center Near Me, Maruti Suzuki Celerio Price, Maruti Suzuki Celerio On Road Price, Maruti Suzuki Celerio Offers, Maruti Suzuki Celerio, Celerio 2025 Offers, Celerio 2025 Price, Celerio On Road Price in Hyderabad, Celerio Offers in Hyderabad, Celerio Price in Hyderabad,
+           Maruti Celerio 2025 Price, Maruti Celerio 2025 On Road Price, Maruti Celerio 2025 Offers, Maruti Celerio 2025 Price in Hyderabad, Maruti Celerio 2025 On Road Price in Hyderabad, Maruti Suzuki Celerio 2025 Price, Maruti Suzuki Celerio 2025 On Road Price, Maruti Suzuki Celerio 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Celerio Discounts, Maruti Suzuki Celerio 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
         />
 
         <meta name="author" content="Broaddcast" />

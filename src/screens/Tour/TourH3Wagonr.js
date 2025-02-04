@@ -18,20 +18,19 @@ function TourH3Wagonr() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki WagonR Tour H3 Commercial | Commercial WagonR Tour H3
-          Car
+        Maruti Suzuki WagonR Tour H3 Commercial – Starting at ₹5.51 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki WagonR Tour H3 Commercial | Commercial WagonR Tour H3 Car"
+          content="Maruti Suzuki WagonR Tour H3 Commercial – Starting at ₹5.51 Lakh at RKS Motor!"
         />
         <meta
           name="description"
-          content="Maruti Suzuki WagonR Tour H3 commercial is available in CNG and petrol engine option. Know more about the Tour H3 mileage, features, specifications, performance,exterior and interior of Tour H3 Commercial at Saboo Maruti Suzuki Commercial."
+          content="The Maruti Suzuki WagonR Tour H3 Commercial offers both CNG and petrol engine options, delivering great fuel efficiency and performance. Celebrate Mahashivratri and Valentine's Day with exclusive offers at Saboo Maruti Suzuki Commercial. Visit us today to explore its features, specifications, and more!"
         />
         <meta
           name="keywords"
-          content="alto on road price, alto offers, alto price, alto service center, maruti alto on road price, maruti alto offers, maruti alto price, maruti alto service center, maruti alto service center near me, maruti suzuki alto price, maruti suzuki alto on road price, maruti suzuki alto offers,maruti suzuki alto, alto on road price, alto 2024 offers, alto 2024 price, alto on road price in hyderabad, breza offers in hyderabad, alto price in hyderabad, maruti alto 2024 price, maruti alto 2024 on road price, maruti alto 2024 offers, maruti alto 2024 price in hyderabad, maruti alto 2024 on road price in hyderabad, Maruti Suzuki alto 2024 price, Maruti Suzuki alto 2024 on road price, maruti suzuki alto 2024 offers,  vitara alto offers, Vitara alto price, vitara alto on road price, vitara alto 2024 offers, vitara alto 2024 price, vitara alto 2024 on road price, vitara alto 2024 offers"
+          content="Maruti Suzuki WagonR Tour H3, WagonR H3 Commercial, CNG and Petrol Engine WagonR, Fuel-efficient WagonR, WagonR Tour H3 features, WagonR Tour H3 performance, WagonR H3 specifications, Commercial vehicle WagonR, WagonR Tour H3 mileage, Maruti Suzuki commercial vehicle, Mahashivratri offers, Valentine's Day deals."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

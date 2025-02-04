@@ -31,20 +31,20 @@ function AltoK10() {
     <>
       <Helmet>
         <title>
-          Maruti Exclusive 2025 Discounts and festive Offers on Maruti Alto K10
+          Maruti Exclusive 2025 Discounts and February Valentine's-Day on Maruti Alto K10
           | Best Deals and Discounts at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Exclusive 2025 Discounts and festive Offers on Maruti Alto K10 | Best Deals and Discounts at RKS Motor."
+          content="Maruti Exclusive 2025 Discounts and February Valentine's-Day Offers on Maruti Alto K10 | Best Deals and Discounts at RKS Motor."
         />
         <meta
           name="description"
-          content="Discover incredible 2025 Discounts and festive Offers on Maruti Alto K10 in 2025! Special discounts, low EMIs, and limited-time deals on your favorite models. Hurry, book now."
+          content="Discover incredible 2025 Discounts and February Valentine's-Day Offers on Maruti Alto K10 in 2025! Special discounts on Valentine's-day,Mahashivaratri, low EMIs, and limited-time deals on your favorite models. Hurry, book now."
         />
         <meta
           name="keywords"
-          content="alto K10 on road price, alto offers, alto K10 price, alto K10 service center, maruti alto on road price, maruti alto K10 offers, maruti alto K10 price, maruti alto K10 service center, maruti alto K10 service center near me, maruti suzuki alto price, maruti suzuki alto K10 on road price, maruti suzuki alto K10 offers,maruti suzuki alto K10, alto on road price, alto 2025 Discounts and festive Offers, alto K10 2025 price, alto K10 on road price in hyderabad, brezza offers in hyderabad, alto K10 price in hyderabad, maruti alto K10 2025 price, maruti alto K10 2024 on road price, maruti alto K10 2025 offers, maruti alto K10 2025 price in hyderabad, maruti alto K10 2025 on road price in hyderabad, Maruti Suzuki alto K10 2025 price, Maruti Suzuki alto K10 2025 on road price, maruti suzuki alto K10 2025 offers,  vitara alto K10 offers, Vitara alto K10 price, vitara alto K10 on road price, vitara alto K10 2024 offers, vitara alto K10 2024 price, vitara alto K10 2024 on road price, vitara alto K10 2024 offers, 2025 Discounts and festive Offers Alto K10, Alto K10 2024, Alto K10 2025 Offers, Alto K10 2025 Price, Alto K10 2025 Mileage, Alto K10 2025 Specifications, Alto K10 2025 Reviews, Alto K10 2025 Images, Alto K10 2025 Colors, alto k10, alto k10 price, alto k10 on road price, alto k10 price hyderabad, alto k10 vxi on road price, alto k10 on road price hyderabad, alto k10 mileage, alto k10 vxi, alto k10 top model price, alto k10 2025"
+          content="alto K10 on road price,on Valentine's-day,Mahashivaratri, alto offers, alto K10 price, alto K10 service center, maruti alto on road price, maruti alto K10 offers, maruti alto K10 price, maruti alto K10 service center, maruti alto K10 service center near me, maruti suzuki alto price, maruti suzuki alto K10 on road price, maruti suzuki alto K10 offers,maruti suzuki alto K10, alto on road price, alto 2025 Discounts and festive Offers, alto K10 2025 price, alto K10 on road price in hyderabad, brezza offers in hyderabad, alto K10 price in hyderabad, maruti alto K10 2025 price, maruti alto K10 2024 on road price, maruti alto K10 2025 offers, maruti alto K10 2025 price in hyderabad, maruti alto K10 2025 on road price in hyderabad, Maruti Suzuki alto K10 2025 price, Maruti Suzuki alto K10 2025 on road price, maruti suzuki alto K10 2025 offers,  vitara alto K10 offers, Vitara alto K10 price, vitara alto K10 on road price, vitara alto K10 2024 offers, vitara alto K10 2024 price, vitara alto K10 2024 on road price, vitara alto K10 2024 offers, 2025 Discounts and festive Offers Alto K10, Alto K10 2024, Alto K10 2025 Offers, Alto K10 2025 Price, Alto K10 2025 Mileage, Alto K10 2025 Specifications, Alto K10 2025 Reviews, Alto K10 2025 Images, Alto K10 2025 Colors, alto k10, alto k10 price, alto k10 on road price, alto k10 price hyderabad, alto k10 vxi on road price, alto k10 on road price hyderabad, alto k10 mileage, alto k10 vxi, alto k10 top model price, alto k10 2025"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

@@ -15,12 +15,11 @@ function BrezzaCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Brezza CNG On Road Price in Secunderabad, Hyderabad & 2025
-          Offers
+        Maruti Brezza CNG  On Road Price in Hyderabad starts Rs.9.29 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Brezza CNG Price in Hyderabad | Brezza CNG Mileage & Specifications"
+          content="Maruti Brezza CNG  On Road Price in Hyderabad starts Rs.9.29 Lakh at RKS Motor."
         />
         <meta
           name="description"
@@ -28,7 +27,7 @@ function BrezzaCNG() {
         />
         <meta
           name="keywords"
-          content=" January-offers, 2025 Discounts and festive Offers,brezza on road price, alto offers, brezza price, brezza service center, maruti brezza on road price, maruti brezza offers, maruti brezza price, maruti brezza service center, maruti brezza service center near me, maruti suzuki brezza price, maruti suzuki brezza on road price, maruti suzuki brezza offers,maruti suzuki brezza, brezza on road price, brezza 2025 offers, brezza 2025 price, brezza on road price in hyderabad, breza offers in hyderabad, brezza price in hyderabad, maruti brezza 2025 price, maruti brezza 2025 on road price, maruti brezza 2022 offers, maruti brezza 2025 price in hyderabad, maruti brezza 2025 on road price in hyderabad, Maruti Suzuki brezza 2025 price, Maruti Suzuki brezza 2025 on road price, maruti suzuki brezza 2025 offers,  vitara ˇ offers, Vitara brezza price, vitara brezza on road price, vitara alto 2025 offers, vitara alto 2025 price, vitara alto 2025 on road price, vitara alto 2025 offers"
+          content=" 2025 Discounts and festive Offers,brezza on road price, alto offers, brezza price, brezza service center, maruti brezza on road price, maruti brezza offers, maruti brezza price, maruti brezza service center, maruti brezza service center near me, maruti suzuki brezza price, maruti suzuki brezza on road price, maruti suzuki brezza offers,maruti suzuki brezza, brezza on road price, brezza 2025 offers, brezza 2025 price, brezza on road price in hyderabad, breza offers in hyderabad, brezza price in hyderabad, maruti brezza 2025 price, maruti brezza 2025 on road price, maruti brezza 2022 offers, maruti brezza 2025 price in hyderabad, maruti brezza 2025 on road price in hyderabad, Maruti Suzuki brezza 2025 price, Maruti Suzuki brezza 2025 on road price, maruti suzuki brezza 2025 offers,  vitara ˇ offers, Valentine's Day Car Sale 2025,2025 Mahashivaratri Brezza Discounts,Maruti Suzuki Brezza 2025 Valentine Day Deals,Mahashivaratri Offers Maruti Suzuki,Valentine's Day Festive Discounts Maruti"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

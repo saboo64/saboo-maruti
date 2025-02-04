@@ -17,16 +17,19 @@ function EecoCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Eeco CNG On Road Price in Secunderabad, Hyderabad & 2025
-          Discounts and festive Offers | Maruti Eeco CNG Offers
+        Maruti Eeco CNG  On Road Price in Hyderabad starts Rs.6.58 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Eeco CNG On Road Price in Secunderabad, Hyderabad & 2025 Discounts and festive Offers | Maruti Eeco CNG Offers"
+          content="Maruti Eeco CNG  On Road Price in Hyderabad starts Rs.6.58 Lakh at RKS Motor. | Maruti Eeco CNG Offers"
         />
         <meta
           name="description"
           content="Maruti Eeco CNG in Secunderabad & Hyderabad. Eeco CNG Mileage 31.12KMPL. Best price & offers on Maruti Eeco at Saboo Maruti. Finance facility also available at the dealership. Please visit your nearest Showroom for best deals. Also, Get On-Road Price for Maruti Eeco online. "
+        />
+         <meta
+          name="keywords"
+          content="2025 Discounts and Festive Offers, Ecco On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Ecco Price, Ecco Service Center, Maruti Ecco On Road Price, Maruti Ecco Offers, Maruti Ecco Price, Maruti Ecco Service Center, Maruti Ecco Service Center Near Me, Maruti Suzuki Ecco Price, Maruti Suzuki Ecco On Road Price, Maruti Suzuki Ecco Offers, Maruti Suzuki Ecco, Ecco 2025 Offers, Ecco 2025 Price, Ecco On Road Price in Hyderabad, Ecco Offers in Hyderabad, Ecco Price in Hyderabad, Maruti Ecco 2025 Price, Maruti Ecco 2025 On Road Price, Maruti Ecco 2025 Offers, Maruti Ecco 2025 Price in Hyderabad, Maruti Ecco 2025 On Road Price in Hyderabad, Maruti Suzuki Ecco 2025 Price, Maruti Suzuki Ecco 2025 On Road Price, Maruti Suzuki Ecco 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Ecco Discounts, Maruti Suzuki Ecco 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
         />
 
         <meta name="author" content="Broaddcast" />

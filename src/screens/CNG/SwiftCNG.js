@@ -17,12 +17,11 @@ function SwiftCNG() {
     <>
       <Helmet>
         <title>
-          Maruti Swift S-CNG Price in Hyderabad | Swift S-CNG Mileage &
-          Specifications
+        Maruti Swift CNG  On Road Price in Hyderabad starts Rs.8.95 Lakh at RKS Motor.
         </title>
         <meta
           name="title"
-          content="Maruti Swift CNG Price in Hyderabad | Swift CNG Mileage & Specifications"
+          content=" Maruti Swift CNG  On Road Price in Hyderabad starts Rs.10.78 Lakh at RKS Motor | Swift CNG Mileage & Specifications"
         />
         <meta
           name="description"
@@ -30,7 +29,7 @@ function SwiftCNG() {
         />
         <meta
           name="keywords"
-          content="January-offers,2025 Discounts and festive Offers,swift s-cng on road price, swift s-cng offers, swift cng price, swift cng service center, maruti swift cng on road price, maruti swift cng offers, maruti swift cng price, maruti swift cng service center, maruti alto service center near me, maruti suzuki Swift CNG price, maruti suzuki swift cng on road price, maruti suzuki swift cng offers,maruti suzuki swift cng on road price, swift cng 2025 offers, swift cng 2025 price, Swift CNG on road price in hyderabad, brezza offers in hyderabad, Swift CNG price in hyderabad, maruti Swift CNG 2025 price, maruti Swift CNG 2025 on road price, maruti Swift CNG 2025 offers, maruti Swift CNG 2025 price in hyderabad, maruti Swift CNG 2025 on road price in hyderabad, Maruti Suzuki Swift CNG 2025 price, Maruti Suzuki Swift CNG 2025 on road price, maruti suzuki Swift CNG 2025 offers,  vitara Swift CNG offers, Vitara Swift CNG price, vitara Swift CNG on road price, vitara Swift CNG 2025 offers, vitara Swift CNG 2025 price, vitara Swift CNG 2025 on road price, vitara Swift CNG 2025 offers"
+          content="2025 Discounts and Festive Offers, Swift CNG On Road Price, Mahashivaratri Offers Maruti Suzuki Valentine's Day Festive Discounts Maruti, Swift CNG Price, Swift CNG Service Center, Maruti Swift CNG On Road Price, Maruti Swift CNG Offers, Maruti Swift CNG Price, Maruti Swift CNG Service Center, Maruti Swift CNG Service Center Near Me, Maruti Suzuki Swift CNG Price, Maruti Suzuki Swift CNG On Road Price, Maruti Suzuki Swift CNG Offers, Maruti Suzuki Swift CNG, Swift CNG 2025 Offers, Swift CNG 2025 Price, Swift CNG On Road Price in Hyderabad, Swift CNG Offers in Hyderabad, Swift CNG Price in Hyderabad, Maruti Swift CNG 2025 Price, Maruti Swift CNG 2025 On Road Price, Maruti Swift CNG 2025 Offers, Maruti Swift CNG 2025 Price in Hyderabad, Maruti Swift CNG 2025 On Road Price in Hyderabad, Maruti Suzuki Swift CNG 2025 Price, Maruti Suzuki Swift CNG 2025 On Road Price, Maruti Suzuki Swift CNG 2025 Offers, Vitara Offers, Valentine's Day Car Sale 2025, 2025 Mahashivaratri Swift CNG Discounts, Maruti Suzuki Swift CNG 2025 Valentine Day Deals, Mahashivaratri Offers Maruti Suzuki, Valentine's Day Festive Discounts Maruti"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

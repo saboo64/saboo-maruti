@@ -17,11 +17,11 @@ function TourS() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki Dzire Tour S Commercial | Commercial Dzire Tour S Car
+        Maruti Suzuki Dzire Tour S Commercial – Starting at ₹6.56 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Dzire Tour S Commercial | Commercial Dzire Tour S Car"
+          content="Maruti Suzuki Dzire Tour S Commercial – Starting at ₹6.56 Lakh at RKS Motor!"
         />
         <meta
           name="description"
@@ -29,7 +29,7 @@ function TourS() {
         />
         <meta
           name="keywords"
-          content="dzire   Tour S  on road price, dzire offers, dzire price, dzire service center, maruti dzire on road price, maruti dzire offers, maruti dzire price, maruti dzire service center, maruti dzire service center near me, maruti suzuki dzire price, maruti suzuki dzire on road price, maruti suzuki dzire offers,maruti suzuki dzire, dzire on road price, dzire 2024 offers, dzire 2024 price, dzire on road price in hyderabad, breza offers in hyderabad, dzire price in hyderabad, maruti dzire 2024 price, maruti dzire 2024 on road price, maruti dzire 2024 offers, maruti dzire 2024 price in hyderabad, maruti dzire 2024 on road price in hyderabad, Maruti Suzuki dzire 2024 price, Maruti Suzuki dzire 2024 on road price, maruti suzuki dzire 2024 offers,  vitara dzire offers, Vitara dzire price, vitara dzire on road price, vitara dzire 2024 offers, vitara dzire 2024 price, vitara dzire 2024 on road price, vitara dzire 2024 offers"
+          content="Dzire  Tour S  on road price, dzire offers, dzire price, dzire service center, maruti dzire on road price, maruti dzire offers, maruti dzire price, maruti dzire service center, maruti dzire service center near me, maruti suzuki dzire price, maruti suzuki dzire on road price, maruti suzuki dzire offers,maruti suzuki dzire, dzire on road price, dzire 2025 offers, dzire 2025 price, dzire on road price in hyderabad, breza offers in hyderabad, dzire price in hyderabad, maruti dzire 2025 price, maruti dzire 2025 on road price, maruti dzire 2025 offers, maruti dzire 2025 price in hyderabad, maruti dzire 2025 on road price in hyderabad, Maruti Suzuki dzire 2025 price, Maruti Suzuki dzire 2025 on road price, maruti suzuki dzire 2025 offers,  vitara dzire offers, Vitara dzire price, vitara dzire on road price, vitara dzire 2025 offers, vitara dzire 2025 price, vitara dzire 2025 on road price, vitara dzire 2025 offers,Mahashivratri offers, Valentine's Day deals"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

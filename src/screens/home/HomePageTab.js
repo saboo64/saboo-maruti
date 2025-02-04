@@ -87,10 +87,10 @@ const ArenaCars = () => {
       <div className="container grid gap-2 pb-5 mx-auto sm:grid-1 lg:grid-cols-3">
         {products.map((item, index) => (
           <div
-            className="flex flex-col transition duration-500 transform bg-white border border-gray-300 rounded-md shadow-md hover:shadow-lg hover:scale-106"
-            key={index}
+            className="flex flex-col transition duration-500 transform bg-white border border-gray-300 rounded-md shadow-md hover:shadow-lg hover:scale-95"
+            key={index} 
           >
-            <div className="flex-auto overflow-hidden">
+            <div className="flex-auto overflow-hidden ">
               <Link to={item.explore}>
                 <div className="relative">
                   <img
@@ -192,7 +192,7 @@ const ArenaCars = () => {
             </div>
           </div>
         ))}
-        <div className="sm:col-span-2">
+        <div className="duration-500 sm:col-span-3 hover:scale-95">
           <a href="/maruti-suzuki-driving-school">
             {" "}
             {/* <img
@@ -203,7 +203,7 @@ const ArenaCars = () => {
             <div className="relative lg:mx-auto lg:h-[400px] lg:w-full rounded-md shadow-2xl overflow-hidden">
               <img
                 src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/banners/Epic+Swift+tile+banner+copy.webp"
-                className="object-cover w-full h-full"
+                className="object-cover w-full h-full "
                 alt="banner"
               />
             </div>
@@ -219,7 +219,7 @@ const CNGCars2 = () => {
       <div className="container grid gap-2 pb-5 mx-auto sm:grid-1 lg:grid-cols-3">
         {cngProducts.map((item, index) => (
           <div
-            className="flex flex-col transition duration-500 transform bg-white border border-gray-300 rounded-md shadow-md hover:shadow-lg hover:scale-106"
+            className="flex flex-col transition duration-500 transform bg-white border border-gray-300 rounded-md shadow-md hover:shadow-lg hover:scale-95"
             key={index}
           >
             <div className="flex-auto overflow-hidden">
@@ -321,7 +321,7 @@ const TourCars = () => {
       <div className="container grid gap-4 px-5 pb-5 mx-auto sm:grid-cols-2 lg:grid-cols-3">
         {tourProducts.map((item, index) => (
           <div
-            className="flex flex-col bg-[#eee] rounded shadow-lg border relative overflow-hidden"
+            className="flex flex-col bg-[#eee] rounded shadow-lg border relative overflow-hidden hover:scale-95 hover:shadow-lg duration-500"
             key={index}
           >
             <div className="flex-auto overflow-hidden">

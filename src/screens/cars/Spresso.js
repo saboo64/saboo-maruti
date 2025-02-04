@@ -30,20 +30,21 @@ function Spresso() {
     <>
       <Helmet>
         <title>
-          2025 Discounts and festive Offers on Maruti Suzuki S-Presso – Style
+          2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki S-Presso – Style
           Meets Performance! at RKS Motor
         </title>
         <meta
           name="title"
-          content=" 2025 Discounts and festive Offers on Maruti Suzuki S-Presso – Style Meets Performance! at RKS Motor"
+          content=" 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki S-Presso – Style Meets Performance! at RKS Motor"
         />
         <meta
           name="description"
-          content="Celebrate the 2025 Discounts and festive Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on exclusive S-Presso offers."
+          content="Celebrate the 2025 Discounts and February Valentine's-Day Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on exclusive S-Presso offers."
         />
         <meta
           name="keywords"
-          content="Maruti S-Presso 2025 Discounts and festive Offers, S-Presso deals, compact SUV discount, Maruti Suzuki S-Presso sale, Arena 2025 year sale ,2025 Discounts and festive Offers."
+          content="Maruti S-Presso 2025 Discounts and festive Offers,Maruti S-Presso 2025 Discounts,Maruti Suzuki S-Presso Offers,2025 Festive Car Deals,Valentine's Day Car Discounts, Mahashivaratri 2025 Car Offers
+                   Maruti S-Presso Sale,Compact SUV Discounts,Maruti Suzuki Arena 2025 Offers,2025 Mahashivaratri Car Sale"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

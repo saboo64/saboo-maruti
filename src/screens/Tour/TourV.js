@@ -17,11 +17,11 @@ function TourV() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki Eeco Tour V Commercial | Commercial Eeco Tour V Car
+        Maruti Suzuki Eeco Tour V Commercial – Starting at ₹4.96 Lakh at RKS Motor!
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Eeco Tour V Commercial | Commercial Eeco Tour V Car"
+          content=" Maruti Suzuki Eeco Tour V Commercial – Starting at ₹4.96 Lakh at RKS Motor!"
         />
         <meta
           name="description"
@@ -29,7 +29,7 @@ function TourV() {
         />
         <meta
           name="keywords"
-          content="eeco on road price, eeco offers, eeco price, eeco service center, maruti eeco on road price, maruti eeco offers, maruti eeco price, maruti eeco service center, maruti eeco service center near me, maruti suzuki eeco price, maruti suzuki eeco on road price, maruti suzuki eeco offers,maruti suzuki eeco, eeco on road price, eeco 2024 offers, eeco 2024 price, eeco on road price in hyderabad, breza offers in hyderabad, eeco price in hyderabad, maruti eeco 2024 price, maruti eeco 2024 on road price, maruti eeco 2024 offers, maruti eeco 2024 price in hyderabad, maruti eeco 2024 on road price in hyderabad, Maruti Suzuki eeco 2024 price, Maruti Suzuki eeco 2024 on road price, maruti suzuki eeco 2024 offers,  vitara eeco offers, Vitara eeco price, vitara eeco on road price, vitara eeco 2024 offers, vitara eeco 2024 price, vitara eeco 2024 on road price, vitara eeco 2024 offers"
+          content="eeco on road price, eeco offers, eeco price, eeco service center, maruti eeco on road price, maruti eeco offers, maruti eeco price, maruti eeco service center, maruti eeco service center near me, maruti suzuki eeco price, maruti suzuki eeco on road price, maruti suzuki eeco offers,maruti suzuki eeco, eeco on road price, eeco 2025 offers, eeco 2025 price, eeco on road price in hyderabad, breza offers in hyderabad, eeco price in hyderabad, maruti eeco 2025 price, maruti eeco 2025 on road price, maruti eeco 2025 offers, maruti eeco 2025 price in hyderabad, maruti eeco 2025 on road price in hyderabad, Maruti Suzuki eeco 2025 price, Maruti Suzuki eeco 2025 on road price, maruti suzuki eeco 2025 offers,  vitara eeco offers, Vitara eeco price, vitara eeco on road price, vitara eeco 2025 offers, vitara eeco 2025 price, vitara eeco 2025 on road price, vitara eeco 2025 offers,Mahashivratri offers, Valentine's Day deals"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

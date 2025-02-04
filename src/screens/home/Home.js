@@ -103,65 +103,7 @@ function Home() {
   );
 }
 
-// const LocationsatHomePage = () => {
-//   return (
-//     <>
-//       <div className='container relative mx-auto mt-3'>
-//         <div className='grid grid-cols-1 gap-4 m-3 bg-gray-100 md:grid-cols-2 rounded-2xl'>
-//           <div className='flex flex-col col-span-1 gap-4 p-4 md:p-2'>
-//             <div className='p-4 border-red-500 md-3 md:p-8'>
-//               <div className='border-b-2 pb-4 text-4xl font-bold md:pb-8 md:text-6xl text-[#293e91]'>
-//                 Locations
-//               </div>
-//               <p className='border-b-2 pb-4 mt-4 text-sm md:pb-8 md:text-lg text-[#293e91]'>
-//                 Explore our showroom of quality vehicles, conveniently located
-//                 in Hyderabad to serve you better on every journey.
-//               </p>
-//             </div>
-//             <div className=''>
-//               <div className='grid grid-cols-1 gap-4 md:grid-cols-2'>
-//                 <div className='relative overflow-hidden rounded-2xl'>
-//                   <a href='https://www.google.com/maps/place/Saboo+RKS+Motor+-+Maruti+Suzuki+Car+Dealer+(Malakpet,+Hyderabad)/@17.371254,78.512446,15z/data=!4m6!3m5!1s0x3bcb985a78a7f883:0xad5bb6113d36bffc!8m2!3d17.3712538!4d78.5124463!16s%2Fg%2F11bbrj30gb?hl=en&entry=ttu'>
-//                     <img
-//                       src='https://lh3.googleusercontent.com/p/AF1QipNy727I0UpGe1yIhQ67wPOoE_PF4LnNiNn8K32S=s1360-w1360-h1020'
-//                       className='object-cover w-full h-64 transition-transform duration-200 transform md:h-full hover:scale-105'
-//                     />
-//                     <div className='absolute bottom-0 left-0 m-4 text-lg font-bold text-white'>
-//                       Malakpet
-//                     </div>
-//                   </a>
-//                 </div>
-//                 <div className='relative overflow-hidden rounded-2xl'>
-//                   <a href='https://www.google.com/maps/place/Saboo+RKS+Motor+-+Maruti+Suzuki+Car+Dealer+(Narsingi,+Hyderabad)/@17.3837654,78.3631478,15z/data=!4m6!3m5!1s0x3bcb958150dd4c01:0x2d0aecdb5b3523de!8m2!3d17.3837654!4d78.3631478!16s%2Fg%2F11v07h42w1?entry=ttu'>
-//                     <img
-//                       src='https://lh3.googleusercontent.com/p/AF1QipP0QArklxlSs_OhkZcF9a9boJuPTyqKmw6D2iah=s1360-w1360-h1020'
-//                       className='object-cover w-full h-64 transition-transform duration-200 transform shadow-xl md:h-full hover:scale-105'
-//                     />
-//                     <div className='absolute bottom-0 left-0 m-4 text-lg font-bold text-white'>
-//                       Narsingi
-//                     </div>
-//                   </a>
-//                 </div>
-//               </div>
-//             </div>
-//           </div>
 
-//           <div className='relative col-span-1 p-2'>
-//             <a href='https://www.google.com/maps/place/Maruti+Suzuki+Arena+-+Saboo+RKS+Motor+Pvt.+Ltd/@17.4241643,78.4573371,15z/data=!4m2!3m1!1s0x0:0x1e0a3e3dabcb8701?sa=X&ved=2ahUKEwikovmhtNCEAxUGR2wGHSDqCIsQ_BJ6BAgTEAA'>
-//               <img
-//                 src='https://lh3.googleusercontent.com/p/AF1QipPPhdZg3FHrFoQHEjjWOkXbgwy0bV0CdArxl0Jj=s1360-w1360-h1020'
-//                 className='object-cover w-full h-64 transition-transform duration-200 transform shadow-xl rounded-2xl md:h-full hover:scale-105'
-//               />
-//               <div className='absolute bottom-0 left-0 m-6 text-5xl font-bold text-white'>
-//                 Somajiguda
-//               </div>
-//             </a>
-//           </div>
-//         </div>
-//       </div>
-//     </>
-//   );
-// };
 
 const Blog = () => {
   return (
@@ -488,106 +430,7 @@ const Blog = () => {
 
 const Testimonials = () => {
   return (
-    // <section
-    //   className='flex items-center justify-center py-20 bg-white min-w-screen tails-selected-element'
-    //   contenteditable='true'
-    // >
-    //   <div className='px-16 bg-white'>
-    //     <div className='container flex flex-col items-start mx-auto lg:items-center'>
-    //       <p
-    //         className='relative flex items-start justify-start w-full text-lg font-bold tracking-wider text-gray-500 uppercase lg:justify-center lg:items-center'
-    //         data-primary='purple-500'
-    //       >
-    //         Don't just take our word for it
-    //       </p>
-
-    //       <h2 className='relative flex items-start justify-start w-full max-w-3xl text-5xl font-bold lg:justify-center text-[#293e91]'>
-    //         <svg
-    //           xmlns='http://www.w3.org/2000/svg'
-    //           fill='currentColor'
-    //           className='absolute right-0 hidden w-12 h-12 -mt-2 -mr-16 text-gray-200 lg:inline-block'
-    //           viewBox='0 0 975.036 975.036'
-    //         >
-    //           <path
-    //             d='M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z'
-    //             className=''
-    //           ></path>
-    //         </svg>
-    //         See what others are saying
-    //       </h2>
-    //       <div
-    //         className='block w-full h-0.5 max-w-lg mt-6 bg-blue-100 rounded-full'
-    //         data-primary='purple-600'
-    //       ></div>
-
-    //       <div className='items-center justify-center w-full mt-12 mb-4 lg:flex'>
-    //         <div className='flex flex-col items-start justify-start w-full h-auto mb-12 lg:w-1/3 lg:mb-0'>
-    //           <div className='flex items-center justify-center'>
-    //             <div className='w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full'>
-    //               <img
-    //                 src='https://img.freepik.com/free-photo/worldface-pakistani-guy-white-background_53876-146312.jpg?w=1800&t=st=1709009205~exp=1709009805~hmac=e33e8852ba20c7cc42a18e39554d4fe73af8435dd124bcd383e526e67856617c'
-    //                 className='object-cover w-full h-full'
-    //                 alt='review-1'
-    //               />
-    //             </div>
-    //             <div className='flex flex-col items-start justify-center'>
-    //               <h4 className='font-bold text-[#293e91] text-xl'>Vijay</h4>
-    //               <p className='text-sm text-gray-500'>Engineer</p>
-    //             </div>
-    //           </div>
-    //           <blockquote className='mt-8 italic text-gray-500 text-md'>
-    //             "Wonderfull experinece with staff and Mr Prasad Induri has been
-    //             very good in througout the process. Delivered as promised. Thank
-    //             you RKS"
-    //           </blockquote>
-    //         </div>
-    //         <div className='flex flex-col items-start justify-start w-full h-auto px-0 mx-0 mb-12 border-l border-r border-transparent lg:w-1/3 lg:mb-0 lg:px-8 lg:mx-8 lg:border-gray-200'>
-    //           <div className='flex items-center justify-center'>
-    //             <div className='w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full'>
-    //               <img
-    //                 src='https://img.freepik.com/free-photo/arab-man-with-beard-standing-bricks-wall-background-with-happy-cool-smile-face-lucky-person_839833-31933.jpg?w=1800&t=st=1709009424~exp=1709010024~hmac=7855a6e03e1e53e9542bb5f9d739d731a956a4207c2ba177289337d0e149178e'
-    //                 className='object-cover w-full h-full'
-    //                 alt='testimonial-profile-person-2'
-    //               />
-    //             </div>
-    //             <div className='flex flex-col items-start justify-center'>
-    //               <h4 className='font-bold text-[#293e91] text-xl'>Mohan Reddy</h4>
-    //               <p className='text-sm text-gray-500'>Doctor</p>
-    //             </div>
-    //           </div>
-    //           <blockquote className='mt-8 italic text-gray-500 text-md'>
-    //             "Mr. Venkat Reddy is good guy and very co ordinated and given
-    //             all his best and excellent service to me I will refer my friends
-    //             and family to rks motors tardbund."
-    //           </blockquote>
-    //         </div>
-    //         <div className='flex flex-col items-start justify-start w-full h-auto lg:w-1/3'>
-    //           <div className='flex items-center justify-center'>
-    //             <div className='w-16 h-16 mr-4 overflow-hidden bg-gray-200 rounded-full'>
-    //               <img
-    //                 src='https://img.freepik.com/free-photo/smiling-businessman-face-portrait-wearing-suit_53876-148138.jpg?w=1800&t=st=1709009087~exp=1709009687~hmac=be37fd25992f7bef82371504fbb517783f7f25fa98e40be1d8baf29d3f18c50d'
-    //                 className='object-cover w-full h-full'
-    //                 alt='review-3'
-    //               />
-    //             </div>
-    //             <div className='flex flex-col items-start justify-center'>
-    //               <h4 className='font-bold text-xl text-[#293e91]'>
-    //                 Jagadish Kumar
-    //               </h4>
-    //               <p className='text-sm text-gray-500'>Business Man</p>
-    //             </div>
-    //           </div>
-    //           <blockquote className='mt-8 italic text-gray-500 text-md'>
-    //             "Excellent Work from Sales Person Mr. Tirupati happy with rks
-    //             motors tadbund showroom Receiving was excellent 👍 all covid
-    //             saftey taken at showroom i really awsome all staff 😍👌💯 i will
-    //             prefer to rks motors tadbund thank you 🙏"
-    //           </blockquote>
-    //         </div>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </section>
+   
     <section
       className="container py-20 mx-auto my-5 lg:py-10 lg:px-8 rounded-3xl "
       id="testimonials"
@@ -623,11 +466,11 @@ const Testimonials = () => {
             spaceBetween: 50,
           },
         }}
-        className="mySwiper"
+        className="mySwiper "
       >
         {reviews.map((item, index) => (
           <SwiperSlide key={index}>
-            <div className="px-8">
+            <div className="px-8 ">
               <img
                 src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/icons/Saboo-Nexa-Profile-Icon.webp"
                 className="mx-auto"

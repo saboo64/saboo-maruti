@@ -17,16 +17,15 @@ function AltoK10CNG() {
     <>
       <Helmet>
         <title>
-          Maruti Alto K10 CNG Price in Hyderabad | Alto CNG Mileage &
-          Specifications
+        Maruti Alto K10 CNG  On Road Price in Hyderabad starts Rs.5.96 Lakh at RKS Motor
         </title>
         <meta
           name="title"
-          content="Maruti Alto K10 CNG Price in Hyderabad | Alto CNG Mileage & Specifications"
+          content="Maruti Alto K10 CNG  On Road Price in Hyderabad starts Rs.5.96 Lakh at RKS Motor"
         />
         <meta
           name="description"
-          content="Maruti Suzuki Alto K10 CNG Price in Hyderabad & Secunderabad. Alto CNG Mileage 31.6KMPL. Best price and offers on Maruti Alto K10 CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
+          content="Maruti Suzuki Alto K10 CNG Price in Hyderabad & Secunderabad. Alto CNG Mileage 31.6KMPL. Best price and 2025 offers on Maruti Alto K10 CNG at Saboo Maruti. Visit your nearest Saboo Maruti Showroom for best deals."
         />
         <meta
           name="keywords"

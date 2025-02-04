@@ -29,12 +29,12 @@ function Dzire() {
     <>
       <Helmet>
         <title>
-          2025 Discounts and festive Offers on Maruti Suzuki Dzire – Comfort &
+          2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Dzire – Comfort &
           Style! at RKS Motor
         </title>
         <meta
           name="title"
-          content=" 2025 Discounts and festive Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content=" 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
         />
         <meta
           name="description"
@@ -42,7 +42,7 @@ function Dzire() {
         />
         <meta
           name="keywords"
-          content="Maruti Dzire offer, 2025 Discounts and festive Offers sale Dzire, stylish sedan discount, Maruti Suzuki Dzire deals, Arena Dzire offer , 2025 Discounts and festive Offers."
+          content="Maruti Dzire offer, 2025 Discounts and festive Offers sale Dzire,on Valentine's-day,Mahashivaratri, stylish sedan discount, Maruti Suzuki Dzire deals, Arena Dzire offer , 2025 Discounts and festive Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

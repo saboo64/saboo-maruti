@@ -32,7 +32,7 @@ function Celerio() {
       <Helmet>
         <title>
           Maruti Celerio On Road Price - Images, Colours & Reviews in Hyderabad
-          & 2025 Discounts and festive Offers | Saboo Maruti
+          & 2025 Discounts and February Valentine's-Day Offers | Saboo Maruti
         </title>
         <meta
           name="title"
@@ -44,7 +44,7 @@ function Celerio() {
         />
         <meta
           name="keywords"
-          content="Maruti Celerio 2025 offer, 2025 year sale Celerio, smart hatchback discount, Maruti Suzuki Celerio deals, Arena Celerio offer , 2025 Discounts and festive Offers."
+          content="Maruti Celerio 2025 offer,on Valentine's-day,Mahashivaratri, 2025 year sale Celerio, smart hatchback discount, Maruti Suzuki Celerio deals, Arena Celerio offer , 2025 Discounts and festive Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />

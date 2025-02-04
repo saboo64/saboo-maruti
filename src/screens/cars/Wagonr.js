@@ -30,21 +30,21 @@ function Wagonr() {
       <Header />
       <Helmet>
         <title>
-          Maruti Suzuki WagonR 2025 Discounts and festive Offers – Spacious and
+          Maruti Suzuki WagonR 2025 Discounts and February Valentine's-Day Offers – Spacious and
           Efficient! at RKS Motor
         </title>
         <meta
           name="title"
-          content=" Maruti Suzuki WagonR 2025 Discounts and festive Offers – Spacious and Efficient! at RKS Motor"
+          content=" Maruti Suzuki WagonR 2025 Discounts and February Valentine's-Day Offers – Spacious and Efficient! at RKS Motor"
         />
         <meta
           name="description"
-          content="Enjoy 2025 Discounts and festive Offers savings on the Maruti Suzuki WagonR! Known for its spacious design and efficient performance, the WagonR is available with special 2025 discounts. Grab the offer before it's gone!"
+          content="Enjoy 2025 Discounts and February Valentine's-Day Offers savings on the Maruti Suzuki WagonR! Known for its spacious design and efficient performance, the WagonR is available with special 2025 discounts. Grab the offer before it's gone!"
         />
 
         <meta
           name="keywords"
-          content="Maruti WagonR offer, 2025 Discounts and festive Offers WagonR, Maruti Suzuki hatchback sale, WagonR deals, Maruti Arena WagonR offer ,2025 Discounts and festive Offers."
+          content="Maruti WagonR offer,2025 Mahashivaratri Car Sale,Valentine's Day Car Sale, 2025 Discounts and festive Offers WagonR, Maruti Suzuki hatchback sale, WagonR deals, Maruti Arena WagonR offer ,2025 Discounts and festive Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
