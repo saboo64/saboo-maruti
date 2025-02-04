@@ -27,7 +27,7 @@ function Home() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki 2025 Discounts and festive Offers – Unbeatable 2025 Year
+          Maruti Suzuki 2025 Discounts and festive Offers – Unbeatable 2025 Year 
           offers on Your Favorite Maruti Cars at RKS Motor
         </title>
         <meta
@@ -40,7 +40,7 @@ function Home() {
         />
         <meta
           name="keywords"
-          content="January-offers, 2025 Discounts and festive Offers,Maruti Suzuki year offers, 2025 car discounts, Maruti Suzuki deals, Maruti Suzuki car offers, Swift discount, Dzire offer, Vitara Brezza 2025 year sale, car exchange bonus, Maruti Suzuki limited-time deals, Maruti Suzuki finance offers ,2025 Discounts and festive Offers"
+          content=" 2025 Discounts and festive Offers,Maruti Suzuki year offers, 2025 car discounts, Maruti Suzuki deals, Maruti Suzuki car offers, Swift discount, Dzire offer, Vitara Brezza 2025 year sale, car exchange bonus, Maruti Suzuki limited-time deals, Maruti Suzuki finance offers ,2025 Discounts and festive Offers"
         />
         <meta
           property="og:image"
