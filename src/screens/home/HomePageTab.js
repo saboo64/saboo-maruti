@@ -192,24 +192,42 @@ const ArenaCars = () => {
             </div>
           </div>
         ))}
-        <div className="duration-500 sm:col-span-3 hover:scale-95">
+        {/* <div className="duration-500 sm:col-span-1 hover:scale-95">
           <a href="/maruti-suzuki-driving-school">
             {" "}
-            {/* <img
-              src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/banners/new-tile-banner.webp'
-              className='lg:mx-auto product_image lg:h-[400px] lg:w-full rounded-md shadow-2xl'
-              alt='banner'
-            /> */}
-            <div className="relative lg:mx-auto lg:h-[400px] lg:w-full rounded-md shadow-2xl overflow-hidden">
+         
+            <div className="relative lg:mx-auto lg:h-[400px] lg:w-full rounded-md shadow-2xl overflow-hidden z-auto">
               <img
-                src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/banners/Epic+Swift+tile+banner+copy.webp"
+                src={require("../../assets/banners/RewardSlider/Website_Titles_Maruti_Suzuki_Insurance_Service__Saboo_RKS_Motor_Insurance_Renewal (1).webp")}
                 className="object-cover w-full h-full "
                 alt="banner"
               />
             </div>
           </a>
-        </div>
+        </div> */}
       </div>
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+  <a href="/maruti-suzuki-car-insurance-renewal">
+    <div className="">
+      <img
+        src={require("../../assets/banners/RewardSlider/Website_Titles_Maruti_Suzuki_Insurance_Service__Saboo_RKS_Motor_Insurance_Renewal (1).webp")}
+        className="object-cover w-full h-full duration-500 hover:scale-95 rounded-xl"
+        alt="banner"
+      />
+    </div>
+  </a>
+  <a href="/maruti-car-service-centers-near-me">
+    <div className="">
+      <img
+        src={require("../../assets/banners/RewardSlider/Website_Titles_Maruti_Suzuki_Service_Valentines_day_Service_offers_Saboo_RKS_Motor_service (1).webp")}
+        className="object-cover w-full h-full duration-500 rounded-xl hover:scale-95"
+        alt="banner"
+      />
+    </div>
+  </a>
+</div>
+
+      
     </>
   );
 };
