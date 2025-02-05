@@ -23,18 +23,18 @@ import Banner from '../../components/Banner';
 
 const serviceBanners = [
   {
-    desktopImg: require('../../assets/banners/website_service_republic.webp'),
-    mobileImg: require('../../assets/banners/mobile_republic.webp'),
-    alt: 'Republic',
+    desktopImg: require('../../assets/banners/Website_Maruti_Suzuki_Service_Valentines_day_Service_offers_Saboo_RKS_Motor_service.webp'),
+    mobileImg: require('../../assets/banners/Valentine-mobile-banner.webp'),
+    alt: 'Valentine',
     link: '',
   },
-  {
-    desktopImg: require('../../assets/banners/sankranti_website_service.webp'),
-    //mobileImg: require('../../assets/banners/sankranti_mobile_service.webp'),
-    mobileImg: require('../../assets/banners/mobile_republic.webp'),
-    alt: 'Sankranti',
-    link: '',
-  },
+  // {
+  //   desktopImg: require('../../assets/banners/sankranti_website_service.webp'),
+  //   //mobileImg: require('../../assets/banners/sankranti_mobile_service.webp'),
+  //   mobileImg: require('../../assets/banners/mobile_republic.webp'),
+  //   alt: 'Sankranti',
+  //   link: '',
+  // },
 ];
 
 function BookAService() {
