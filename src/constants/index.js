@@ -27,10 +27,16 @@ export const sliders = [
   //  link: "/maruti-suzuki-driving-school",
   //},
   {
-    img: require("../assets/banners/Website_Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: "2025 new year republic offer",
+    img: require("../assets/banners/Website__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
+    alt: "2025 new year valentines-day offer",
     link: "/maruti-suzuki-car-offers-page",
   },
+
+  // {
+  //   img: require("../assets/banners/Website_Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
+  //   alt: "2025 new year republic offer",
+  //   link: "/maruti-suzuki-car-offers-page",
+  // },
   {
     img: require("../assets/banners/vehicles/banners-2024/Wesbite_Maruti_Suzuki_Arena_WagonR_Waltz_Edition_Saboo_RKS_Motor.webp"),
     alt: "Wesbite Maruti Suzuki Arena WagonR Waltz Edition Saboo RKS Motor",
@@ -108,10 +114,18 @@ export const sliders = [
 
 export const mobileSliders = [
   {
-    img: require("../assets/banners/WM__Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: "2025 new year republic offer",
+    img: require("../assets/banners/WM__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
+    alt: "2025 Valentines-day offer",
     link: "/maruti-suzuki-car-offers-page",
   },
+
+
+
+  // {
+  //   img: require("../assets/banners/WM__Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
+  //   alt: "2025 new year republic offer",
+  //   link: "/maruti-suzuki-car-offers-page",
+  // },
   //{
  //   img: require("../components/Wesbite_Mobile_Maruti_Suzuki_Arena_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor.webp"),
  //   alt: "Mobile Maruti Suzuki Dezire Festive december Yearend Offers Saboo RKS Motor, Mobile_Maruti_Suzuki_Arena_New_Dazzling_Dzire_with_Five_Star_Rating_Car_Offers_Saboo_RKS_Motor.webp",
@@ -190,18 +204,18 @@ export const mobileSliders = [
 ];
 
 export const offersSliders = [
-  // {
-  //   img: require("../assets/banners/vehicles/banners-2024/Wesbite_Maruti_Suzuki_Arena_Festive_Offers_Navratri_dussehra_Offers_Saboo_RKS_Motor.webp"),
-  //   alt: "Website Maruti Suzuki Arena Festive Offers Navratri dussehra Offers Saboo RKS Motor",
-  // },
+  {
+     img: require("../assets/banners/Website__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
+    alt: "Website Maruti Suzuki Arena Festive Offers Navratri dussehra Offers Saboo RKS Motor",
+  },
   //{
   //  img: require("../assets/banners/vehicles/banners-2024/Website_Maruti_Suzuki_Arena_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor.webp"),
   // alt: "Website_Maruti_Suzuki_Arena_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor",
   //},
-  {
-    img:require("../assets/banners/Website_Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: '2025 new year republic offer'
-  },
+  // {
+  //   img:require("../assets/banners/Website_Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
+  //   alt: '2025 new year republic offer'
+  // },
   
   //{
   //  img: require("../components/Wesbite_Maruti_Suzuki_Arena_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor.webp"),
@@ -241,14 +255,14 @@ export const offersSliders = [
 ];
 
 export const mobileOffersSliders = [
-  // {
-  //   img: require("../assets/banners/vehicles/banners-2024/Website_Mobile_Maruti_Suzuki_Arena_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor.webp"),
-  //   alt: "Mobile_Maruti_Suzuki_Arena_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor",
-  // },
   {
-    img: require("../assets/banners/WM__Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: "2025 new year republic offer",
+     img: require("../assets/banners/WM__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
+    alt: "Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers",
   },
+  // {
+  //   img: require("../assets/banners/WM__Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp"),
+  //   alt: "2025 new year republic offer",
+  // },
  // {
   //  img: require("../components/Wesbite_Mobile_Maruti_Suzuki_Arena_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor.webp"),
  //   alt: "Maruti Suzuki Arena Brezza Urbano Edition Offers Saboo RKS Motor Hyderabad Favourite Maruti Suzuki Dealer",
@@ -258,18 +272,18 @@ export const mobileOffersSliders = [
   //   alt: "Website Maruti Suzuki Arena Festive Offers Navratri dussehra Offers Saboo RKS Motor",
   // },
 
-  {
-    img: require("../assets/banners/Website_Mobile_Maruti_Suzuki_Arena_Brezza_Urbano_Edition_Offers_Saboo_RKS_Motor_Hyderabad_Favoruite_Maruti_Suzuki_Dealer.webp"),
-    alt: "Maruti Suzuki Arena Brezza Urbano Edition Offers Saboo RKS Motor Hyderabad Favourite Maruti Suzuki Dealer",
-  },
+  // {
+  //   img: require("../assets/banners/Website_Mobile_Maruti_Suzuki_Arena_Brezza_Urbano_Edition_Offers_Saboo_RKS_Motor_Hyderabad_Favoruite_Maruti_Suzuki_Dealer.webp"),
+  //   alt: "Maruti Suzuki Arena Brezza Urbano Edition Offers Saboo RKS Motor Hyderabad Favourite Maruti Suzuki Dealer",
+  // },
   // {
   //   img: require("../assets/banners/Website_Mobile_Maruti_Suzuki_Arena_July_Monsoon_Offers_Saboo_RKS_Motor.webp"),
   //   alt: "Buy Dream Series Edition @ 4.99 Lakh",
   // },
-  {
-    img: require("../assets/banners/Website_mobile_Maruti_Suzuki_Dream_Series_Saboo_RKS_Motor_June_Offers.webp"),
-    alt: "Buy Dream Series Edition @ 4.99 Lakh",
-  },
+  // {
+  //   img: require("../assets/banners/Website_mobile_Maruti_Suzuki_Dream_Series_Saboo_RKS_Motor_June_Offers.webp"),
+  //   alt: "Buy Dream Series Edition @ 4.99 Lakh",
+  // },
 
   // {
   //   img: 'https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/banners/Website_Mobile_Gandhi_Jayanti_Saboo_RKS_Motor_October_Offers.webp',
