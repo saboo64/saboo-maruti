@@ -63,8 +63,8 @@ function SwiftCNG() {
       </Helmet>
       <Header />
       <img
-        src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/swift-2024-launch/swift-cng-launch/cng-page-banner/cng-page-desktop-new.webp"
-        // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/alto/Website%2BSaboo%2BRKS%2BMotor%2BMaruti%2BSuzuki%2BArena%2BMarch%2BHoli%2BOffer.webp"
+      //  src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-detail/swift-2024-launch/swift-cng-launch/cng-page-banner/cng-page-desktop-new.webp"
+         src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/alto/Website%2BSaboo%2BRKS%2BMotor%2BMaruti%2BSuzuki%2BArena%2BMarch%2BHoli%2BOffer.webp"
         className="w-full max-w-full lg:mt-16"
         alt="1"
       />
@@ -94,21 +94,21 @@ function SwiftCNG() {
             <div className="flex flex-row">
               <div className="basis-1/1">
                 <img
-                  src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/cng/wagonr/performence"
+                  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/wagonr/icon1.png"
                   className="w-full max-w-full pr-3"
                   alt="1"
                 />
               </div>
               <div className="basis-1/1">
                 <img
-                  src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/cng/wagonr/safetye"
+                  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/wagonr/icon2.png"
                   className="w-full max-w-full pr-3"
                   alt="1"
                 />
               </div>
               <div className="basis-1/1">
                 <img
-                  src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/cng/wagonr/factory"
+                  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/CNG/wagonr/icon3.png"
                   className="w-full max-w-full pr-3"
                   alt="1"
                 />
@@ -133,8 +133,8 @@ function SwiftCNG() {
           <div className="justify-between px-6 space-y-3">
             <p className="text-4xl font-bold uppercase">Swift S-CNG features</p>
             <img
-              src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/cng/cng_page/logo_swift"
-              // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/logo/swift-cng-logo.webp"
+            //  src="https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/cng/cng_page/logo_swift"
+               src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/logo/swift-cng-logo.webp"
               className="max-h-20"
               alt="swift-logo"
             />

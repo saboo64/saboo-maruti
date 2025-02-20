@@ -25,7 +25,7 @@ export const sliders = [
   //   img: require("../assets/banners/vehicles/banners-2024/Website_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp"),
   //  alt: "Maruti Suzuki Driving School October Dussehra Diwali Offers Saboo RKS Motor Learn Driving Driving School",
   //  link: "/maruti-suzuki-driving-school",
-  //},
+  // },
   {
     img: require("../assets/banners/Website__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
     alt: "2025 new year valentines-day offer",
@@ -1032,10 +1032,10 @@ export const accesoriessliders = [
 ];
 
 export const Newaccesoriessliders = [
-  {
-    img: "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/marutigeniuneaccessories_27112019/msgabanner/webp-banner/swift_desktop_1500x470.webp",
-    alt: "banner-1",
-  },
+  // {
+  //   img: "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/marutigeniuneaccessories_27112019/msgabanner/webp-banner/swift_desktop_1500x470.webp",
+  //   alt: "banner-1",
+  // },
   {
     img: require("../assets/banners/Maruti_Suzuki_Genuine_Accessories_Summer_cool_offers_Saboo_RKS_Nexa_Banner-01.webp"),
     alt: "Maruti Suzuki Genuine Accessories Summer cool offers Saboo RKS Hyderabad April 2024",

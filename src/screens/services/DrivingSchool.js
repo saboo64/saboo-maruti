@@ -101,7 +101,7 @@ function DrivingSchool() {
         </div>
       </Swiper> */}
 
-      {/* <img
+      <img
         src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/banners/saboo-driving-school-december-2023.webp"
         alt="Maruti Suzuki Driving School October Dussehra Diwali Offers Saboo RKS Motor Learn Driving Driving School"
         className="hidden w-full mt-14 sm:block"
@@ -110,8 +110,8 @@ function DrivingSchool() {
         src={require("../../assets/banners/vehicles/banners-2024/Maruti_Suzuki_Driving_School.webp")}
         alt="Maruti Suzuki Driving School October Dussehra Diwali Offers Saboo RKS Motor Learn Driving Driving School"
         className="w-full sm:hidden"
-      /> */}
-      <img
+      />
+      {/* <img
         src={require("../../Website_Maruti_Suzuki_Driving_School_January_New_Year_2025_offers_Saboo_RKS_Motor (1).webp")}
         // src={require("../../assets/banners/vehicles/banners-2024/Website_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
         alt="Maruti Suzuki Driving School Year-end Offers Saboo RKS Motor Learn Driving Driving School"
@@ -122,7 +122,7 @@ function DrivingSchool() {
         // src={require("../../assets/banners/vehicles/banners-2024/Website_Mobile_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
         alt="Maruti Suzuki Driving School December Offers Saboo RKS Motor Learn Driving Driving School"
         className="w-full sm:hidden"
-      />
+      /> */}
 
       {/* <RegisterInterest /> */}
       {/* <CarEnquiry /> */}
