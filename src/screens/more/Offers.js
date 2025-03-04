@@ -25,7 +25,7 @@ const offer_products = [
   // },
   {
     name: "Swift 2024",
-    price: "65,000",
+    price: "70,000",
     //desc:"+Blitz Kit",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/Swift+Tile+Image.webp",
     explore: "/maruti-swift-car-on-road-price-in-hyderabad",
@@ -40,7 +40,7 @@ const offer_products = [
   {
     name: "Alto K10",
     
-    price: "52,000",
+    price: "62,000",
     logo: "Alto k10",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-k10.webp",
     explore: "/maruti-alto-800-on-road-price-in-hyderabad",
@@ -54,20 +54,20 @@ const offer_products = [
   // },
   {
     name: "S-Presso",
-    price: "52,000",
+    price: "62,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-spresso.webp",
     explore: "/maruti-s-presso-on-road-price-in-hyderabad",
   },
   {
     name: "WagonR ",
-    price: "50,000",
+    price: "55,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-wagonr.webp",
     explore: "/maruti-wagon-r-on-road-price-in-hyderabad",
   },
 
   {
     name: "Celerio",
-    price: "52,000",
+    price: "62,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-celerio.webp",
     explore: "/the-all-new-celerio",
   },

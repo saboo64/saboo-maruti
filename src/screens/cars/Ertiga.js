@@ -31,20 +31,19 @@ function Ertiga() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki Ertiga 2025 Discounts and February Valentine's-Day Offers – Perfect
-          Family Car! at RKS Motor
+        Maruti Suzuki Ertiga 2025 Discounts and March Holi & Ugadi Offers – The Perfect Family Car! at RKS Motor
         </title>
         <meta
           name="title"
-          content="Maruti Suzuki Ertiga 2025 Discounts and February Valentine's-Day Offers – Perfect Family Car! at RKS Motor"
+          content="Maruti Suzuki Ertiga 2025 Discounts and March Holi & Ugadi Offers – The Perfect Family Car! at RKS Motor"
         />
         <meta
           name="description"
-          content="Drive home the Maruti Suzuki Ertiga with special 2025 Discounts and festive Offers! Spacious and efficient, Ertiga is ideal for family trips. Avail limited-time discounts on Ertiga now."
+          content="Drive home the Maruti Suzuki Ertiga with special 2025 Discounts and festive Offers this Holi & Ugadi! Spacious and efficient, the Ertiga is perfect for family trips. Don’t miss out on these limited-time discounts and celebrate the season with unbeatable offers!"
         />
         <meta
           name="keywords"
-          content="Maruti Ertiga offer, Ertiga 2025 Discounts and festive Offers,Valentine's-day,Mahashivaratri 2025 offers, family car discount, Maruti Suzuki Ertiga deals, Arena Ertiga offer , 2025 Discounts and festive Offers"
+          content="Maruti Ertiga Offer, Holi & Ugadi 2025 Discounts, Maruti Suzuki Ertiga Deals, Arena Ertiga Offers, Ertiga Family Car Discount, 2025 Year Sale Ertiga, Maruti Ertiga Festive Offers, Ertiga 2025 Special Offers, Maruti Ertiga Holi & Ugadi Deals, Maruti Suzuki Ertiga 2025 Discounts, Ertiga Limited-time Festive Offers, Maruti Ertiga Price, Ertiga 2025 On Road Price, Maruti Ertiga Holi & Ugadi Discounts, 2025 Ertiga Festive Savings"
         />
         <meta name="author" content="Broaddcast" />
 
@@ -55,22 +54,22 @@ function Ertiga() {
         />
         <meta
           property="og:title"
-          content=" Maruti Suzuki Ertiga 2025 Discounts and festive Offers – Perfect Family Car! at RKS Motor"
+          content=" Maruti Suzuki Ertiga 2025 Discounts and March Holi & Ugadi Offers – The Perfect Family Car! at RKS Motor"
         />
         <meta
           property="og:description"
-          content="Drive home the Maruti Suzuki Ertiga with 2025 Discounts and festive Offers! Spacious and efficient, Ertiga is ideal for family trips. Avail limited-time discounts on Ertiga now."
+          content="Drive home the Maruti Suzuki Ertiga with special 2025 Discounts and festive Offers this Holi & Ugadi! Spacious and efficient, the Ertiga is perfect for family trips. Don’t miss out on these limited-time discounts and celebrate the season with unbeatable offers!"
         />
         <meta property="og:image" content="img/og-tags/ertiga.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content=" Maruti Suzuki Ertiga 2025 Discounts and festive Offers – Perfect Family Car! at RKS Motor"
+          content=" Maruti Suzuki Ertiga 2025 Discounts and March Holi & Ugadi Offers – The Perfect Family Car! at RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="Drive home the Maruti Suzuki Ertiga with 2025 Discounts and festive Offers! Spacious and efficient, Ertiga is ideal for family trips. Avail limited-time discounts on Ertiga now."
+          content="Drive home the Maruti Suzuki Ertiga with special 2025 Discounts and festive Offers this Holi & Ugadi! Spacious and efficient, the Ertiga is perfect for family trips. Don’t miss out on these limited-time discounts and celebrate the season with unbeatable offers!"
         />
         <meta property="twitter:image" content="img/og-tags/ertiga.webp" />
       </Helmet>

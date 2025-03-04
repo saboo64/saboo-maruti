@@ -30,21 +30,19 @@ function Spresso() {
     <>
       <Helmet>
         <title>
-          2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki S-Presso – Style
-          Meets Performance! at RKS Motor
+        2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor
         </title>
         <meta
           name="title"
-          content=" 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki S-Presso – Style Meets Performance! at RKS Motor"
+          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor"
         />
         <meta
           name="description"
-          content="Celebrate the 2025 Discounts and February Valentine's-Day Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on exclusive S-Presso offers."
+          content="Celebrate the 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on these exclusive seasonal offers and drive home the S-Presso with amazing savings!"
         />
         <meta
           name="keywords"
-          content="Maruti S-Presso 2025 Discounts and festive Offers,Maruti S-Presso 2025 Discounts,Maruti Suzuki S-Presso Offers,2025 Festive Car Deals,Valentine's Day Car Discounts, Mahashivaratri 2025 Car Offers
-                   Maruti S-Presso Sale,Compact SUV Discounts,Maruti Suzuki Arena 2025 Offers,2025 Mahashivaratri Car Sale"
+          content="Maruti S-Presso 2025 Discounts and Holi & Ugadi Festive Offers, Maruti S-Presso 2025 Discounts, Maruti Suzuki S-Presso Offers, 2025 Festive Car Deals, Holi & Ugadi Car Discounts, Maruti S-Presso Sale, Compact SUV Discounts, Maruti Suzuki Arena 2025 Offers, 2025 Holi & Ugadi Car Sale, Maruti S-Presso 2025 Limited-time Offers, Maruti Suzuki S-Presso Festive Deals, S-Presso 2025 Offers, Maruti S-Presso Holi & Ugadi Specials"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -54,22 +52,22 @@ function Spresso() {
         />
         <meta
           property="og:title"
-          content="2025 Discounts and festive Offers on Maruti Suzuki S-Presso – Style Meets Performance! at RKS Motor"
+          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor"
         />
         <meta
           property="og:description"
-          content=": Maruti S-Presso 2025 Discounts and festive Offers, S-Presso deals, compact SUV discount, Maruti Suzuki S-Presso sale, Arena 2025 year sale , 2025 Discounts and festive Offers."
+          content=": Celebrate the 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on these exclusive seasonal offers and drive home the S-Presso with amazing savings!"
         />
         <meta property="og:image" content="img/og-tags/s-presso.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="2025 Discounts and festive Offers on Maruti Suzuki S-Presso – Style Meets Performance! at RKS Motor"
+          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki S-Presso – Where Style Meets Performance! at RKS Motor"
         />
         <meta
           property="twitter:description"
-          content=": Celebrate the 2025 Discounts and festive Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on exclusive S-Presso offers."
+          content=":Celebrate the 2025 Discounts and March Holi & Ugadi Offers on the Maruti Suzuki S-Presso! A stylish mini-SUV designed for city adventures. Don’t miss out on these exclusive seasonal offers and drive home the S-Presso with amazing savings!"
         />
         <meta property="twitter:image" content="img/og-tags/s-presso.webp" />
       </Helmet>

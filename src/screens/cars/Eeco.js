@@ -29,20 +29,19 @@ function Eeco() {
     <>
       <Helmet>
         <title>
-          Get Maruti Eeco at Unbeatable Prices -2025 Discounts and February Valentine's-Day
-          Offers at RKS Motor.
+        Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and March Holi & Ugadi Offers at RKS Motor
         </title>
         <meta
           name="title"
-          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and February Valentine's-Day Offers at RKS Motor."
+          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and March Holi & Ugadi Offers at RKS Motor"
         />
         <meta
           name="description"
-          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO. Avail special prices, festive offers, and financing options. Limited stock – act fast!"
+          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO this Holi & Ugadi! Avail special prices, festive offers, and flexible financing options. Limited stock – act fast and make the most of these seasonal savings!"
         />
         <meta
           name="keywords"
-          content="Maruti car offers ,2025 Discounts and  Valentine's-day,Mahashivaratri 2025 offers , Maruti 2025 year  offers , Saboo Maruti , RKS Motor , EECO 2025 Discounts and festive Offers."
+          content="Maruti Car Offers, Holi & Ugadi 2025 Discounts, Maruti 2025 Year Offers, Saboo Maruti, RKS Motor, EECO 2025 Discounts, Maruti Suzuki 2025 Festive Offers, Maruti EECO Holi & Ugadi Deals, Maruti Car Deals 2025, Maruti Holi & Ugadi Offers, Maruti Suzuki Offers 2025, RKS Motor Maruti Offers, Saboo Maruti Holi & Ugadi Deals, Maruti 2025 Special Discounts, EECO Limited-time Festive Offers, Maruti 2025 Year-End Deals"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -52,11 +51,11 @@ function Eeco() {
         />
         <meta
           property="og:title"
-          content=" Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and festive Offers at RKS Motor."
+          content="Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and March Holi & Ugadi Offers at RKS Motor."
         />
         <meta
           property="og:description"
-          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO. Avail special prices, festive offers, and financing options. Limited stock – act fast!"
+          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO this Holi & Ugadi! Avail special prices, festive offers, and flexible financing options. Limited stock – act fast and make the most of these seasonal savings!"
         />
         <meta property="og:image" content="img/og-tags/eeco.webp" />
         <meta property="twitter:card" content="summary_large_image" />
@@ -67,7 +66,7 @@ function Eeco() {
         />
         <meta
           property="twitter:description"
-          content="Get Maruti Eeco at Unbeatable Prices - 2025 Discounts and festive Offers at RKS Motor."
+          content="Don’t miss Maruti Suzuki’s exclusive 2025 Discounts and festive Offers on EECO this Holi & Ugadi! Avail special prices, festive offers, and flexible financing options. Limited stock – act fast and make the most of these seasonal savings!"
         />
         <meta property="twitter:image" content="img/og-tags/eeco.webp" />
       </Helmet>

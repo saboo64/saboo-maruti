@@ -31,20 +31,19 @@ function Swift() {
     <>
       <Helmet>
         <title>
-          Unmissable 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Swift –
-          Bold & Dynamic! at RKS Motor
+        Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor
         </title>
         <meta
           name="title"
-          content="Unmissable 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content="Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
         />
         <meta
           name="description"
-          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and February Valentine's-Day Offers! Known for its bold looks and dynamic performance, Swift is now available with limited-time offers. Book your Swift today!"
+          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and March Holi & Ugadi Offers! Known for its bold looks and dynamic performance, the Swift is now available with limited-time festive offers. Book your Swift today and celebrate the season with unbeatable savings!"
         />
         <meta
           name="keywords"
-          content="Maruti Swift offer, Swift 2025 Discounts and festive Offers,2025 Mahashivaratri Car Sale,Valentine's Day Car Sale,2025 Car Purchase Discounts, bold hatchback discount, Maruti Suzuki Swift deals, Arena Swift offer, 2025 Discounts and festive Offers."
+          content="Maruti Swift Offer, Swift 2025 Discounts and Holi & Ugadi Festive Offers, 2025 Car Purchase Discounts, Bold Hatchback Discount, Maruti Suzuki Swift Deals, Arena Swift Offer, 2025 Holi & Ugadi Car Sale, Maruti Swift 2025 Limited-time Offers, Swift 2025 Special Discounts, Maruti Swift Holi & Ugadi Deals, Maruti Suzuki Swift 2025 Offers, Swift Festive Savings, Maruti Swift 2025 Holi & Ugadi Promotions."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -54,11 +53,11 @@ function Swift() {
         />
         <meta
           property="og:title"
-          content="Unmissable 2025 Discounts and festive Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content="Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
         />
         <meta
           property="og:description"
-          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and festive Offers! Known for its bold looks and dynamic performance, Swift is now available with limited-time offers. Book your Swift today!"
+          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and March Holi & Ugadi Offers! Known for its bold looks and dynamic performance, the Swift is now available with limited-time festive offers. Book your Swift today and celebrate the season with unbeatable savings!"
         />
         <meta
           property="og:image"
@@ -68,11 +67,11 @@ function Swift() {
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Unmissable 2025 Discounts and festive Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
+          content="Unmissable 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Swift – Bold & Dynamic! at RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="Drive home the Maruti Suzuki Swift with 2025 Discounts and festive Offers! Known for its bold looks and dynamic performance, Swift is now available with limited-time offers. Book your Swift today!"
+          content="Drive home the Maruti Suzuki Swift with fantastic 2025 Discounts and March Holi & Ugadi Offers! Known for its bold looks and dynamic performance, the Swift is now available with limited-time festive offers. Book your Swift today and celebrate the season with unbeatable savings!"
         />
         <meta property="twitter:image" content="img/og-tags/swift.webp" />
       </Helmet>

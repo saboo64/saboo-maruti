@@ -27,8 +27,7 @@ function Home() {
     <>
       <Helmet>
         <title>
-          Maruti Suzuki 2025 Discounts and festive Offers – Unbeatable 2025 Year 
-          offers on Your Favorite Maruti Cars at RKS Motor
+        Maruti Suzuki 2025 Discounts & Festive Offers – Unbeatable Deals on Your Favorite Maruti Cars at RKS Motor
         </title>
         <meta
           name="title"

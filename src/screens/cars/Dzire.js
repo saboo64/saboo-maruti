@@ -29,20 +29,19 @@ function Dzire() {
     <>
       <Helmet>
         <title>
-          2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Dzire – Comfort &
-          Style! at RKS Motor
+        2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor
         </title>
         <meta
           name="title"
-          content=" 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content=" 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
         />
         <meta
           name="description"
-          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire! A comfortable and stylish sedan perfect for your family. Make the most of these exclusive discounts on Dzire this season."
+          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire this Holi & Ugadi! A comfortable and stylish sedan perfect for your family. Don’t miss out on these exclusive seasonal discounts and drive home the Dzire with unbeatable savings!"
         />
         <meta
           name="keywords"
-          content="Maruti Dzire offer, 2025 Discounts and festive Offers sale Dzire,on Valentine's-day,Mahashivaratri, stylish sedan discount, Maruti Suzuki Dzire deals, Arena Dzire offer , 2025 Discounts and festive Offers."
+          content="Maruti Dzire Offer, Holi & Ugadi 2025 Discounts, Maruti Suzuki Dzire Deals, Arena Dzire Offers, Dzire Stylish Sedan Discount, 2025 Year Sale Dzire, Maruti Dzire Festive Offers, Dzire 2025 Special Offers, Maruti Dzire Holi & Ugadi Deals, Maruti Dzire Price, Dzire On Road Price, Maruti Suzuki Dzire Holi Ugadi Offers, Dzire Limited-time Discounts, 2025 Dzire Offers, Maruti Dzire 2025 Festive Savings"
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -52,22 +51,22 @@ function Dzire() {
         />
         <meta
           property="og:title"
-          content=" 2025 Discounts and festive Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content="2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
         />
         <meta
           property="og:description"
-          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire! A comfortable and stylish sedan perfect for your family. Make the most of these exclusive discounts on Dzire this season."
+          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire this Holi & Ugadi! A comfortable and stylish sedan perfect for your family. Don’t miss out on these exclusive seasonal discounts and drive home the Dzire with unbeatable savings!"
         />
         <meta property="og:image" content="img/og-tags/dzire.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content=" 2025 Discounts and festive Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
+          content=" 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Dzire – Comfort & Style! at RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire! A comfortable and stylish sedan perfect for your family. Make the most of these exclusive discounts on Dzire this season."
+          content="Enjoy amazing 2025 Discounts and festive Offers on the Maruti Suzuki Dzire this Holi & Ugadi! A comfortable and stylish sedan perfect for your family. Don’t miss out on these exclusive seasonal discounts and drive home the Dzire with unbeatable savings!"
         />
         <meta property="twitter:image" content="img/og-tags/dzire.webp" />
       </Helmet>

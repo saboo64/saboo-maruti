@@ -31,20 +31,19 @@ function Celerio() {
       <Header />
       <Helmet>
         <title>
-          Maruti Celerio On Road Price - Images, Colours & Reviews in Hyderabad
-          & 2025 Discounts and February Valentine's-Day Offers | Saboo Maruti
+        Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti
         </title>
         <meta
           name="title"
-          content=" 2025 Discounts and festive Offers on Maruti Suzuki Celerio – Smart and Stylish Hatchback! at RKS Motor"
+          content=" Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti"
         />
         <meta
           name="description"
-          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Don’t miss the exclusive offers!"
+          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Take advantage of exclusive Holi & Ugadi offers and celebrate the season with incredible savings!"
         />
         <meta
           name="keywords"
-          content="Maruti Celerio 2025 offer,on Valentine's-day,Mahashivaratri, 2025 year sale Celerio, smart hatchback discount, Maruti Suzuki Celerio deals, Arena Celerio offer , 2025 Discounts and festive Offers."
+          content="Maruti Celerio 2025 Offer, Holi & Ugadi 2025 Discounts, Maruti Suzuki Celerio Deals, Arena Celerio Offers, Celerio Smart Hatchback Discount, 2025 Year Sale Celerio, Maruti Celerio Festive Offers, Celerio 2025 Special Offers, Maruti Celerio Holi & Ugadi Deals, Maruti Celerio Price, Celerio On Road Price, Maruti Suzuki Celerio Holi Ugadi Offers, Celerio Limited-time Discounts, 2025 Celerio Offers, Maruti Celerio 2025 Festive Savings."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -54,22 +53,22 @@ function Celerio() {
         />
         <meta
           property="og:title"
-          content="2025 Discounts and festive Offers on Maruti Suzuki Celerio – Smart and Stylish Hatchback! at RKS Motor"
+          content="Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti"
         />
         <meta
           property="og:description"
-          content="Get the Maruti Suzuki Celerio at an unbeatable price this 2025 Discounts and festive Offers! With a stylish design and advanced features, the Celerio offers a smart driving experience. Don’t miss the exclusive offers!"
+          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Take advantage of exclusive Holi & Ugadi offers and celebrate the season with incredible savings!"
         />
         <meta property="og:image" content="img/og-tags/celerio.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="2025 Discounts and festive Offers on Maruti Suzuki Celerio – Smart and Stylish Hatchback! at RKS Motor"
+          content="Maruti Celerio On-Road Price - Images, Colours & Reviews in Hyderabad | 2025 Discounts & March Holi & Ugadi Offers | Saboo Maruti"
         />
         <meta
           property="twitter:description"
-          content="Get the Maruti Suzuki Celerio at an unbeatable price this 2025 Discounts and festive Offers! With a stylish design and advanced features, the Celerio offers a smart driving experience. Don’t miss the exclusive offers!"
+          content="Get the Maruti Suzuki Celerio at an unbeatable price this year! With a stylish design and advanced features, the Celerio offers a smart driving experience. Take advantage of exclusive Holi & Ugadi offers and celebrate the season with incredible savings!"
         />
         <meta property="twitter:image" content="img/og-tags/celerio.webp" />
       </Helmet>

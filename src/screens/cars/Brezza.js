@@ -106,20 +106,19 @@ function Brezza() {
     <>
       <Helmet>
         <title>
-          Maruti 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Vitara
-          Brezza – SUV Style! at RKS Motor
+        Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor
         </title>
         <meta
           name="title"
-          content="Maruti 2025 Discounts and February Valentine's-Day Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content="Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
         />
         <meta
           name="description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers on Valentine's-day,Mahashivaratri! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
+          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers for Holi & Ugadi! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals and celebrate the season with unbeatable savings!"
         />
         <meta
           name="keywords"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and on Valentine's-day,Mahashivaratri  Offers! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
+          content="Maruti Suzuki Vitara Brezza 2025 Discounts, Holi & Ugadi Offers, Vitara Brezza Price, Vitara Brezza On Road Price, Maruti Suzuki Brezza 2025 Offers, Vitara Brezza Festive Deals, Vitara Brezza Discounts, 2025 Holi & Ugadi Deals, Vitara Brezza SUV Offers, Maruti Brezza 2025 Limited-time Offers, Brezza 2025 Price, Maruti Suzuki Brezza Holi Ugadi Discounts, Vitara Brezza Special Offers 2025, Maruti SUV Brezza Holi Ugadi Savings, Vitara Brezza 2025 on Road Price, Brezza Adventure Offers."
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -129,22 +128,22 @@ function Brezza() {
         />
         <meta
           property="og:title"
-          content=" Maruti 2025 Discounts and festive Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content=" Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
         />
         <meta
           property="og:description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
+          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers for Holi & Ugadi! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals and celebrate the season with unbeatable savings!"
         />
         <meta property="og:image" content="img/og-tags/breeza.webp" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://x.com/saboorksmaruti" />
         <meta
           property="twitter:title"
-          content="Maruti Huge 2025 Discounts and festive Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
+          content="Maruti 2025 Discounts and March Holi & Ugadi Offers on Maruti Suzuki Vitara Brezza – SUV Style! at RKS Motor"
         />
         <meta
           property="twitter:description"
-          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals."
+          content="The Maruti Suzuki Vitara Brezza comes with exciting 2025 Discounts and festive Offers for Holi & Ugadi! A stylish and powerful SUV ready for your adventures. Don’t miss out on these limited-time Brezza deals and celebrate the season with unbeatable savings!"
         />
         <meta property="twitter:image" content="img/og-tags/breeza.webp" />
       </Helmet>
