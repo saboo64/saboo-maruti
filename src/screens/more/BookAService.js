@@ -23,9 +23,9 @@ import Banner from '../../components/Banner';
 
 const serviceBanners = [
   {
-    desktopImg: require('../../assets/banners/Website_Maruti_Suzuki_Service_Valentines_day_Service_offers_Saboo_RKS_Motor_service.webp'),
-    mobileImg: require('../../assets/banners/Valentine-mobile-banner.webp'),
-    alt: 'Valentine',
+    desktopImg: require('../../assets/banners/March-Service-Banner-website.jpg'),
+    mobileImg: require('../../assets/banners/March Service Banner Mobile.webp'),
+    alt: 'Regular service banner',
     link: '',
   },
   // {

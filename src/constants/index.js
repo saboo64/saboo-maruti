@@ -27,8 +27,8 @@ export const sliders = [
   //  link: "/maruti-suzuki-driving-school",
   // },
   {
-    img: require("../assets/banners/Website__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: "2025 new year valentines-day offer",
+    img: require("../assets/banners/Holi-web-Banner-Arena.webp"),
+    alt: "Holi web Banner Arena.webp",
     link: "/maruti-suzuki-car-offers-page",
   },
 
@@ -114,8 +114,8 @@ export const sliders = [
 
 export const mobileSliders = [
   {
-    img: require("../assets/banners/WM__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: "2025 Valentines-day offer",
+    img: require("../assets/banners/Holi-mobile-web-Banner-Arena.webp"),
+    alt: "Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers",
     link: "/maruti-suzuki-car-offers-page",
   },
 
@@ -205,8 +205,8 @@ export const mobileSliders = [
 
 export const offersSliders = [
   {
-     img: require("../assets/banners/Website__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
-    alt: "Website Maruti Suzuki Arena Festive Offers Navratri dussehra Offers Saboo RKS Motor",
+     img: require("../assets/banners/Holi-web-Banner-Arena.webp"),
+    alt: "Holi web Banner Arena.webp",
   },
   //{
   //  img: require("../assets/banners/vehicles/banners-2024/Website_Maruti_Suzuki_Arena_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor.webp"),
@@ -256,7 +256,7 @@ export const offersSliders = [
 
 export const mobileOffersSliders = [
   {
-     img: require("../assets/banners/WM__Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers_are_live_at_Saboo_RKS_Motor.webp"),
+     img: require("../assets/banners/Holi-mobile-web-Banner-Arena.webp"),
     alt: "Maruti_Suzuki_Arena_Valentines_Day_2025_Febrauary_offers",
   },
   // {
