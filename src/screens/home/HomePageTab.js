@@ -219,7 +219,7 @@ const ArenaCars = () => {
   <a href="/maruti-car-service-centers-near-me">
     <div className="">
       <img
-        src={require("../../assets/banners/RewardSlider/Website_Titles_Maruti_Suzuki_Service_Valentines_day_Service_offers_Saboo_RKS_Motor_service (1).webp")}
+        src={require("../../assets/banners/WT_Maruti_Suzuki_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp")}
         className="object-cover w-full h-full duration-500 rounded-xl hover:scale-95"
         alt="banner"
       />

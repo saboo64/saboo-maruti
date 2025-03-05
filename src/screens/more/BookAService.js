@@ -22,19 +22,18 @@ import { toast } from 'react-toastify';
 import Banner from '../../components/Banner';
 
 const serviceBanners = [
-  {
-    desktopImg: require('../../assets/banners/March-Service-Banner-website.jpg'),
-    mobileImg: require('../../assets/banners/March Service Banner Mobile.webp'),
-    alt: 'Regular service banner',
-    link: '',
-  },
   // {
-  //   desktopImg: require('../../assets/banners/sankranti_website_service.webp'),
-  //   //mobileImg: require('../../assets/banners/sankranti_mobile_service.webp'),
-  //   mobileImg: require('../../assets/banners/mobile_republic.webp'),
-  //   alt: 'Sankranti',
+  //   desktopImg: require('../../assets/banners/March-Service-Banner-website.jpg'),
+  //   mobileImg: require('../../assets/banners/March Service Banner Mobile.webp'),
+  //   alt: 'Regular service banner',
   //   link: '',
   // },
+  {
+    desktopImg: require('../../assets/banners/Website_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
+    mobileImg: require('../../assets/banners/WM_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
+    alt: 'Sankranti',
+    link: '',
+  },
 ];
 
 function BookAService() {
