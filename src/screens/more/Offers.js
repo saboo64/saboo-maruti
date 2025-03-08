@@ -25,14 +25,15 @@ const offer_products = [
   // },
   {
     name: "Swift 2024",
-    price: "70,000",
-    //desc:"+Blitz Kit",
+    price: "76,100",
+    desc:"on 2024 model (with old Alto & Wagonr exchange) ",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/Swift+Tile+Image.webp",
     explore: "/maruti-swift-car-on-road-price-in-hyderabad",
   },
   {
     name: "Brezza 2024",
-    price: "25,000",
+    price: "48,000",
+    desc:' (with old Swift & Dzire exchange)',
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-brezza.webp",
     // img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/offers/maruti-suzuki-brezza.webp",
     explore: "/maruti-new-brezza-on-road-price-in-hyderabad",
@@ -40,7 +41,7 @@ const offer_products = [
   {
     name: "Alto K10",
     
-    price: "62,000",
+    price: "73,000",
     logo: "Alto k10",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-k10.webp",
     explore: "/maruti-alto-800-on-road-price-in-hyderabad",
@@ -54,20 +55,21 @@ const offer_products = [
   // },
   {
     name: "S-Presso",
-    price: "62,000",
+    price: "73,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-spresso.webp",
     explore: "/maruti-s-presso-on-road-price-in-hyderabad",
   },
   {
     name: "WagonR ",
-    price: "55,000",
+    price: "68,000",
+   desc:"(with old Alto & Wagonr exchange)",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-wagonr.webp",
     explore: "/maruti-wagon-r-on-road-price-in-hyderabad",
   },
 
   {
     name: "Celerio",
-    price: "62,000",
+    price: "73,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-celerio.webp",
     explore: "/the-all-new-celerio",
   },
@@ -88,7 +90,7 @@ const offer_products = [
 
   {
     name: "EECO",
-    price: "25,000",
+    price: "33,000",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Arena/thumnails/arena-eeco.webp",
     explore: "/maruti-eeco-on-road-price-in-hyderabad",
   },
@@ -267,38 +269,36 @@ function Offers() {
               Offer
             </p>
 
-            <div className="flex-auto ">
+            <div className="">
               <img src={item.img} alt={item.name} className="w-full mx-auto" />
             </div>
             <div className="flex-auto bg-white">
-              <div>
-                <div className="flex items-center justify-between p-5 ">
-                  {/* <img src={item.logo} alt={item.name} /> */}
-                  <p className="text-xl font-bold">
-                    <i>{item.name}</i>
-                  </p>
-                  <p className="font-bold">
-                    <span className="text-sm font-light text-gray-600">
-                      Save up to <br />{" "}
-                    </span>
-                    <span className="text-xl text-red-500 uppercase ">
-                      {/* <sup>*</sup> */}
-                      <span className="text-xs font-extralight">₹</span>{" "}
-                      {item.price}*
-                    </span><br/>
-                   <span>{item.desc}</span>
-                    &nbsp;&nbsp;&nbsp;
-                  </p>
-                </div>
-                <div className="flex flex-col w-full px-5 mb-3">
-                  <Link
-                    to={item.explore}
-                    className="py-2 font-bold text-center text-white uppercase bg-blue-900 rounded-full hover:animate-pulse hover:bg-red-700"
-                  >
-                    View
-                  </Link>
-                </div>
-              </div>
+            <div>
+  <div className="flex items-center justify-between p-5">
+    {/* <img src={item.logo} alt={item.name} /> */}
+    <p className="text-xl font-bold">
+      <i>{item.name}</i>
+    </p>
+    <p className="flex flex-col font-bold text-right">
+      <span className="text-sm font-light text-gray-600">
+        Save up to <br />
+      </span>
+      <span className="text-xl text-red-500 uppercase">
+        <span className="text-xs font-extralight">₹</span> {item.price}*
+      </span>
+      <span className="text-sm text-gray-600 ">{item.desc}</span>
+    </p>
+  </div>
+  <div className="flex flex-col w-full px-5 mb-3">
+    <Link
+      to={item.explore}
+      className="py-2 font-bold text-center text-white uppercase bg-blue-900 rounded-full hover:animate-pulse hover:bg-red-700"
+    >
+      View
+    </Link>
+  </div>
+</div>
+
             </div>
           </div>
         ))}
