@@ -29,8 +29,8 @@ const serviceBanners = [
   //   link: '',
   // },
   {
-    desktopImg: require('../../assets/banners/Website_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
-    mobileImg: require('../../assets/banners/WM_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
+    desktopImg: require('../../assets/banners/Website_Maruti_Suzuki_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
+    mobileImg: require('../../assets/banners/WM_Maruti_Suzuki_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp'),
     alt: 'Sankranti',
     link: '',
   },
